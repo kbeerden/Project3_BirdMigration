@@ -1,0 +1,104 @@
+Project Proposal: Bird Migration Tracking Visualization
+
+Project Overview
+
+We propose to create an interactive data visualization project focused on tracking and visualizing the movements of various bird species. This project will utilize a Python Flask-powered API, HTML/CSS, JavaScript, BeautifulSoup, and a database (SQLite). The primary goal is to provide engaging and informative visualizations for bird enthusiasts and researchers.
+
+Project Tracks
+
+Our project aligns with the "A combination of web scraping and Leaflet or Plotly" track.
+
+Data Source
+
+We will gather our data from the Science Base repository: [Bird Tracking Data](https://www.sciencebase.gov/catalog/item/632b2d7bd34e71c6d67bc161). This dataset contains comprehensive information about bird movements and locations.
+
+Bird Species to Track and Visualize
+
+- Blue Winged Teal
+- Northern Saw-Whet Owl
+- Ruby Throated Hummingbird 
+- Flamingo
+
+Visualizations (For Each Species)
+
+1. **Age vs. Location**: We will create a visualization that compares the age (youngest and oldest) of each bird to their tagging locations using Leaflet maps. This will help users understand the range and movements of different age groups.
+
+2. **Tracking Year Comparison**: Another visualization will compare the first year of tracking to the most recent year of tracking for each bird species. This will demonstrate changes in migration patterns over time.
+
+3. **Month vs. Location**: We will visualize the month of the year compared to the bird's location. This will reveal seasonal migration patterns and areas where different bird species crossover.
+
+Data Cleanup
+
+Before visualization, we will perform data clean-up by filtering the dataset to specific columns relevant to our comparisons. This will streamline the data for efficient processing.
+
+JavaScript Libraries
+
+To enhance user interaction and visual appeal, we will incorporate ONE of the following JavaScript libraries:
+
+Front-End Frameworks/Libraries:
+React: A library for building user interfaces with a component-based architecture.
+Vue.js: A progressive framework for building user interfaces.
+Angular: A platform and framework for building client-side applications.
+
+Data Visualization:
+Chart.js: Simple yet flexible JavaScript charting for designers & developers.
+Three.js: A library for creating 3D graphics in the browser.
+js InfoVis Toolkit: To create interactive data visualizations.
+Verge 3D: To potentially integrate 3D visualizations for a unique perspective on bird movements.
+
+Backend/Node.js Frameworks:
+Express.js: A fast, unopinionated, minimalist web framework for Node.js.
+Koa: A next-generation web framework for Node.js.
+NestJS: A progressive Node.js framework for building efficient and scalable server-side applications.
+
+State Management:
+Redux: A predictable state container for JavaScript apps.
+Vuex: A state management pattern + library for Vue.js applications.
+MobX: Simple, scalable state management.
+
+UI Component Libraries:
+Material-UI: React components for faster and easier web development.
+Bootstrap: The world's most popular front-end component library.
+Ant Design: A design system with values of Nature and Determinacy for better user experience.
+
+Testing:
+Jest: A delightful JavaScript testing framework.
+Mocha: A feature-rich JavaScript test framework.
+Chai: A BDD/TDD assertion library for Node.js and browsers.
+
+Utility Libraries:
+Lodash: A modern JavaScript utility library delivering modularity, performance, and extras.
+Moment.js: A library for parsing, validating, manipulating, and displaying dates and times.
+
+HTTP Requests:
+Axios: A promise-based HTTP client for the browser and Node.js.
+Fetch API: A modern way to fetch resources.
+
+Animation:
+GreenSock (GSAP): A high-performance, professional-grade animation library.
+anime.js: A lightweight JavaScript animation library.
+jQuery: For animations and user interface enhancements.
+Velocity JS: For web animations to make the project more engaging.
+
+
+User-Driven Interaction
+
+Our project will include user-driven interaction through menus, dropdowns, and textboxes. Users will be able to select different bird species, view data for specific age groups, years, and months, enhancing their exploration of the bird tracking data.
+
+Dataset Size
+
+We will work with a dataset containing a minimum of 100 records for each bird species, ensuring a robust and informative visualization. We reduced our dataset size by narrowing down to specific bird species.
+
+Views
+
+The final visualization will ideally include at least three views: the age vs. location map, the tracking year comparison chart, and the month vs. location heatmap. These views will provide users with comprehensive insights into bird movements.
+
+Visualization Inspiration
+	- https://explorer.audubon.org/home?legend=expand&layersPanel=expand
+	- https://earth.nullschool.net/
+	- https://sos.noaa.gov/catalog/datasets/bird-migration-patterns-western-hemisphere/
+	
+
+Conclusion
+
+Our project aims to deliver an engaging and informative bird tracking visualization experience, leveraging the power of Python, Flask, HTML/CSS, JavaScript, BeautifulSoup, and a SQLite database. By offering various perspectives on bird movements, we hope to contribute valuable insights to the field of ornithology and provide an educational resource for bird enthusiasts.
