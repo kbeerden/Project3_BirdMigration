@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<!-- Page 0: Welcome page -->
+<!-- Page 0 -->
 <div id="welcomePage" class="page">
     <header class="site-header">
         <h1>Bird Migration Tracking Visualization</h1>
@@ -22,9 +22,19 @@
          Leveraging comprehensive data from the Science Base repository, our platform aims to provide bird enthusiasts, researchers, and the general public with an interactive and informative experience.
          Through detailed visualizations, users can explore patterns related to the age, location, and seasonal movements of selected bird species. By offering insights into these natural phenomena, we hope to foster a deeper appreciation for avian migration and contribute to ongoing ornithological studies.</p>
     <h1>Interactive Bird Migration Map</h1>
-    <!-- Placeholder for the map -->
-    <div id="birdMap" style="width: 70%; height: 600px; margin: auto;"></div>
+    
+    <!-- Dropdown for species selection and button to trigger display of markers -->
+    <select id="birdSpecies">
+        <option value="flamingos">Flamingos</option>
+        <option value="hummingbirds">Hummingbirds</option>
+        <option value="owls">Owls</option>
+        <option value="teals">Teals</option>
+    </select>
+    <button onclick="showMarkers()">Show Markers</button>    
 
+    <!-- Placeholder for the map -->
+    <div id="flamingosMap" style="width: 100%; height: 400px;"></div>
+    
     <h1>Citations</h1>
 </div>
 
