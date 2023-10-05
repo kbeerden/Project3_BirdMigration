@@ -1,0 +1,27 @@
+body, h1 {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.site-header {
+    background-image: url('../pictures/Shutterstock_1716008023.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+    color: #000000;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header h1, .site-header p, .site-header a {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.site-header h1 {
+    font-size: 2.5em;
+}
