@@ -1,0 +1,82 @@
+This file contains the final project outline, the project pipeline, timeline, and division of labor.
+----------------------------------------------------------------------------------------------
+Project Overview - USGS Bird Banding Program Analysis
+  We proposed to created an interactive data visualization project focused on visualizing the USGS Bird Banding Program. The primary goal is to provide engaging and informative visualizations for bird enthusiasts and      researchers.
+
+Data Source
+  We gathered our data from the Science Base repository: [Bird Tracking Data](https://www.sciencebase.gov/catalog/item/632b2d7bd34e71c6d67bc161). This dataset contains comprehensive information about bird movements and    locations.
+
+Bird Species to Track and Visualize:
+- Blue Winged Teal
+- Northern Saw-Whet Owl
+- Ruby-Throated Hummingbird 
+- The American Flamingo
+
+- We chose this group of bird species based on the birds all being very different types of birds - a tropical/warm climate-dwelling bird, a unique, but highly recognizable bird, a predatory bird, and a less commonly       known sub-species of one of the most common birds in the world. 
+
+- We also chose these birds based on the amount of available data from the program.
+
+Visualizations (For Each Species)
+1. **The Banding Marker Map**: An interactive map to display locations of where the birds are recorded as being banded, by bird species. This map is the starting point for our interactive visualizations.
+2. **The Location Count Chart**: This interactive chart displays the location of each banding event, by count, and can be filtered by bird species.
+3. **The Heat Map**: This interactive map displays the relationship between the bird's banding location and density of birds at the banding locations, uncovering seasonal locational patterns and potential crossovers among different species.
+
+The Process
+- After finding out dataset and reviewing what information the USGS was tracking and logging, we were able to create an Entity-Relationship Diagram (ERD) to inform how we wanted to clean our data, create our database,     and our visualizations.
+- We utilized the data cleanup process to streamline our dataset by filtering down to our four chosen species.  
+- We then further filtered down to a sample set of data for each bird species, for the sake of a faster API call and a space utilization limitation with our database tool.
+- Once our data was cleaned up, we were able to create a Mongo database for utilization for our page and our interactive visualizations. We hosted our database collections via Atlas.
+- We were able to set up an API within the page to pull the data for our interactive visualizations.
+
+JavaScript Libraries
+  To enhance user interaction and visual appeal, we will incorporated the following JavaScript library:
+  Chart.js: Simple yet flexible JavaScript charting for designers & developers.
+
+User-Driven Interaction
+  Our project will includes user-driven interaction through dropdowns and textboxes. Users are able to select different bird species, and different views of the data, enhancing their exploration of the bird tracking data.
+
+Dataset Size
+  We will worked with an enourmous initial dataset. We reduced our dataset size by narrowing down to specific bird species and further down to a sample of 1000 events per bird species, due to data bandwidth contraints      due to one of our tools (Atlas).
+
+Conclusion
+  By analyzing the data collected from banding these specific bird species, researchers can contribute significantly to our understanding of their behavior, ecology, and the broader impacts of environmental changes,        ultimately supporting conservation initiatives and ensuring the survival of these avian species.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project Pipeline
+
+Description:
+	• Data Collection: Gather data on bird migration patterns, including species, date of observation, location (latitude and longitude), altitude, speed, and any other relevant details. This data can be sourced from ornithological studies, bird-watching groups, or provided datasets.
+	• Database: Store the collected data in a MongoDB database with at least 100 records detailing different bird migration observations.
+	• Backend: Use a Python Flask-powered API to interact with the database. The server should be capable of filtering data based on user input, aggregating data for trends, and identifying migration hotspots or patterns.
+
+Visualization:
+	• Use Leaflet to plot bird migration paths on a map. Different species can be represented with different colored markers or lines. Pop-ups can show details of specific observations when clicked.
+	• JS Library: Chart.js for doughnut chart.
+
+User Interaction:
+	• Dropdowns: Allow users to filter data by bird species, time of year, or region.
+	• Search Box: Enable users to search for specific locations or details.
+	• Sliders: Implement date range pickers to visualize data within specific migration seasons.
+
+Page View:
+	• The page will include user-driven interaction through buttons, dropdowns, and textboxes. Users will be able to select different bird species, and view different views of the data through the selection of different buttons.
+
+Additional Features (Nice to haves if we have the time):
+Species Profiles: Detailed profiles for each bird species, including images, typical migration patterns, and interesting facts. *Can be added to the presentation possibly?*
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Timeline: 
+	- Thursday 09/28 - Working on Data Cleaning/CSV Creation for Mongo DB
+	- Friday 09/29 - Data Cleaning should be done, can start Mongo DB, Sara to have JS library research completed and send recommendation to the team
+	- Saturday 09/30 - Mongo DB should done, start on Python Flask-powered API 
+	- Sunday 10/01 - Python Flask-powered API completion, start work on visualizations code
+	- Monday 10/02 - Work on completing visualizations code, start work on final webpage
+	- Tuesday 10/03 - Complete draft of presentation, send to team to review
+  - Wednesday 10/04 - Continued work on issues with DB, API, and visualizations
+  - Thursday 10/05 - Finialization of presentation, presentation flow, PRESENTATION TIME!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Division of Labor:
+Mitchel - Project Proposal, Data Cleaning, Visualization Creation
+Kyle - Project Proposal, ERD, Mongo DB, Visualization Creation
+Sara - Project Proposal, Project Pipeline, Division of Labor, JS library Research, Mongo DB, Visualization Creation, Presentation Creation, Presentation Direction
+Jared - Project Proposal, File and Data Organization/Management, API creation, Visualization Page Creation, and just overall king of the code and support for the team on their own code :D
