@@ -25,3 +25,48 @@ body, h1 {
 .site-header h1 {
     font-size: 2.5em;
 }
+
+.map-placeholder {
+    width: 40%;
+    height: 400px;
+}
+
+#contentContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#flamingosMap, #locationDistributionChart {
+    flex: 1;  /* This ensures both take up equal width */
+    margin: 10px;  /* Optional: for some spacing between them */
+}
+
+#flamingosMap {
+    display: block;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.controls {
+    flex: 0 0 200px; /* fixed width of 200px */
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* space between controls */
+}
+
+.visualization {
+    flex: 7; /* take up 60% of the available space */
+    height: 500px;
+    overflow: visible;
+    margin-right: 20px; /* space between visualization and description */
+}
+
+.description {
+    flex: 8; /* take up 20% of the available space */
+    height: 400px;
+    overflow: auto;
+}

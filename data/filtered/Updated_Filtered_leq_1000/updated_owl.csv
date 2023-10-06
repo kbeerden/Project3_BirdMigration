@@ -1,0 +1,1001 @@
+BAND,ORIGINAL_BAND,EVENT_TYPE,EVENT_DATE,EVENT_YEAR,ISO_COUNTRY,LAT_DD,LON_DD,CP,BAND_TYPE,SPECIES_ID,BIRD_STATUS,AGE_CODE,SEX_CODE,SPECIES_NAME,SCIENTIFIC_NAME,AGE_DESCRIPTION,SEX_DESCRIPTION
+B28727737547,B28727737547,B,06/15/2020,2020,US,61.14778,-149.75389,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B38727737357,B38727737357,B,06/16/2020,2020,US,61.14778,-149.75389,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B78727737488,B78727737488,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B78727737407,B78727737407,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B38727737418,B38727737418,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B78727737427,B78727737427,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B38727737497,B38727737497,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B48727737432,B48727737432,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B88727737447,B88727737447,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B28727737463,B28727737463,B,06/16/2020,2020,US,61.14778,-149.75389,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B78727737567,B78727737567,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B88727737527,B88727737527,B,06/15/2020,2020,US,61.14778,-149.75389,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B58727737517,B58727737517,B,06/15/2020,2020,US,61.14778,-149.75389,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B78727737533,B78727737533,B,06/15/2020,2020,US,61.14778,-149.75389,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B38727737572,B38727737572,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B18830387113,B18830387113,B,05/30/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B78830387108,B78830387108,B,05/30/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B18830387190,B18830387190,B,05/30/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B88830387120,B88830387120,B,05/30/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B08940948679,B08940948679,B,11/04/2020,2020,US,40.75,-75.58333,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B98830169268,B98830169268,B,11/04/2020,2020,US,40.49389,-76.78361,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830799763,B88830799763,B,11/04/2020,2020,US,39.91667,-75.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98830799659,B98830799659,B,11/04/2020,2020,US,39.91667,-75.41667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B78492771172,B78492771172,B,11/04/2020,2020,US,40.49389,-76.78361,0.0,01,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B78492771169,B78492771169,B,11/04/2020,2020,US,40.49389,-76.78361,0.0,01,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830169128,B88830169128,B,11/05/2020,2020,US,40.49389,-76.78361,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98830169109,B98830169109,B,11/05/2020,2020,US,40.49389,-76.78361,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B78727737477,B78727737477,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B78727737587,B78727737587,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B68830160770,B68830160770,B,11/13/2020,2020,US,40.09167,-77.26722,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08830387953,B08830387953,B,08/23/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830387848,B88830387848,B,08/31/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B88830387938,B88830387938,B,08/28/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98830387997,B98830387997,B,08/28/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98830387918,B98830387918,B,08/28/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78830387903,B78830387903,B,08/28/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38830387948,B38830387948,B,08/28/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B78830387988,B78830387988,B,08/28/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830387927,B88830387927,B,08/28/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08830387078,B08830387078,B,08/23/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830387098,B88830387098,B,08/23/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38830387087,B38830387087,B,08/23/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38830387063,B38830387063,B,08/23/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88830387043,B88830387043,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78727737502,B78727737502,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B88830387178,B88830387178,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08830387038,B08830387038,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78830387028,B78830387028,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78830387183,B78830387183,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88830387050,B88830387050,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38830387008,B38830387008,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88830387017,B88830387017,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38830387168,B38830387168,B,08/22/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B98940540255,B98940540255,B,08/12/2020,2020,US,60.34,-149.375,0.0,47,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B58940540369,B58940540369,B,08/12/2020,2020,US,60.34,-149.375,0.0,47,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B78727737457,B78727737457,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B58727737597,B58727737597,B,06/16/2020,2020,US,61.21417,-149.26611,0.0,W2,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B18830169198,B18830169198,B,11/05/2020,2020,US,40.49389,-76.78361,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18830169118,B18830169118,B,11/05/2020,2020,US,40.49389,-76.78361,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08830160943,B08830160943,B,11/05/2020,2020,US,40.09167,-77.26722,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08830302452,B08830302452,B,11/06/2020,2020,US,39.91667,-77.91667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830069779,B88830069779,B,11/06/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18830161821,B18830161821,B,11/06/2020,2020,US,40.62167,-76.27111,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B68830161816,B68830161816,B,11/06/2020,2020,US,40.62167,-76.27111,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B98422787998,B98422787998,B,11/06/2020,2020,US,40.62167,-76.27111,0.0,01,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88102007442,B88102007442,B,11/06/2020,2020,US,40.08139,-78.72778,0.0,41,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B08830069728,B08830069728,B,11/06/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B08830069718,B08830069718,B,11/06/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B38830069709,B38830069709,B,11/06/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08830069798,B08830069798,B,11/06/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18810779548,B18810779548,B,11/06/2020,2020,US,40.75,-75.58333,10.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830302573,B88830302573,B,11/06/2020,2020,US,39.91667,-77.91667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88830302560,B88830302560,B,11/06/2020,2020,US,39.91667,-77.91667,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B38830302440,B38830302440,B,11/06/2020,2020,US,39.91667,-77.91667,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B68830160938,B68830160938,B,11/05/2020,2020,US,40.09167,-77.26722,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08830302433,B08830302433,B,11/06/2020,2020,US,39.91667,-77.91667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38830302420,B38830302420,B,11/06/2020,2020,US,39.91667,-77.91667,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B88810764008,B88810764008,B,11/06/2020,2020,US,41.8475,-78.05417,0.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88810764090,B88810764090,B,11/06/2020,2020,US,41.8475,-78.05417,0.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88810764081,B88810764081,B,11/06/2020,2020,US,41.8475,-78.05417,0.0,W4,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08810764078,B08810764078,B,11/06/2020,2020,US,41.8475,-78.05417,0.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48810764068,B48810764068,B,11/06/2020,2020,US,41.8475,-78.05417,0.0,W4,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B98810764956,B98810764956,B,11/06/2020,2020,US,41.8475,-78.05417,0.0,W4,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B88810778898,B88810778898,B,11/06/2020,2020,US,40.91667,-75.25,10.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B09010675717,B09010675717,B,11/06/2020,2020,US,41.58333,-75.75,10.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940925609,B88940925609,B,11/06/2020,2020,US,40.31611,-75.08139,0.0,47,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B98940925695,B98940925695,B,11/06/2020,2020,US,40.31611,-75.08139,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38830069788,B38830069788,B,11/06/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B69010675725,B69010675725,B,11/06/2020,2020,US,41.58333,-75.75,10.0,07,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B79010675739,B79010675739,B,11/06/2020,2020,US,41.58333,-75.75,10.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B59010675740,B59010675740,B,11/06/2020,2020,US,41.58333,-75.75,10.0,07,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B18830160928,B18830160928,B,11/05/2020,2020,US,40.09167,-77.26722,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08830160910,B08830160910,B,11/05/2020,2020,US,40.09167,-77.26722,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B88830161848,B88830161848,B,11/05/2020,2020,US,40.62167,-76.27111,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830161838,B88830161838,B,11/05/2020,2020,US,40.62167,-76.27111,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B88830161853,B88830161853,B,11/05/2020,2020,US,40.62167,-76.27111,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98830069740,B98830069740,B,11/05/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B68830069733,B68830069733,B,11/05/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B68232236063,B68232236063,B,11/05/2020,2020,US,41.8475,-78.05417,0.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B78810778851,B78810778851,B,11/05/2020,2020,US,40.91667,-75.25,10.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78810778848,B78810778848,B,11/05/2020,2020,US,40.91667,-75.25,10.0,W4,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08810778838,B08810778838,B,11/05/2020,2020,US,40.91667,-75.25,10.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18810778828,B18810778828,B,11/05/2020,2020,US,40.91667,-75.25,10.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88810778817,B88810778817,B,11/05/2020,2020,US,40.91667,-75.25,10.0,W4,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B88810778807,B88810778807,B,11/05/2020,2020,US,40.91667,-75.25,10.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940946649,B88940946649,B,11/05/2020,2020,US,40.75,-75.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08830069880,B08830069880,B,11/05/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08830069873,B08830069873,B,11/05/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B38830069868,B38830069868,B,11/05/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78830069750,B78830069750,B,11/05/2020,2020,US,40.08139,-78.72778,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88810764011,B88810764011,B,11/05/2020,2020,US,41.8475,-78.05417,0.0,W4,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B78830799647,B78830799647,B,11/05/2020,2020,US,39.91667,-75.41667,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B08830799630,B08830799630,B,11/05/2020,2020,US,39.91667,-75.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38830799623,B38830799623,B,11/05/2020,2020,US,39.91667,-75.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88830799618,B88830799618,B,11/05/2020,2020,US,39.91667,-75.41667,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B88810778887,B88810778887,B,11/06/2020,2020,US,40.91667,-75.25,10.0,W4,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B88830387857,B88830387857,B,08/31/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38830387960,B38830387960,B,08/31/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88830387973,B88830387973,B,08/31/2020,2020,US,59.65833,-151.59167,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08810737233,B08810737233,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88362074166,B88362074166,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B78362074057,B78362074057,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B78362743086,B78362743086,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88810737297,B88810737297,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88810737280,B88810737280,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28810737271,B28810737271,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78810737268,B78810737268,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88810737210,B88810737210,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B68362074180,B68362074180,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B68362074267,B68362074267,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18810737227,B18810737227,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78362074293,B78362074293,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B78810737247,B78810737247,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38810737411,B38810737411,B,09/09/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38810737258,B38810737258,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88810737367,B88810737367,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88810737373,B88810737373,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18810737387,B18810737387,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,W4,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48362074148,B48362074148,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B78362074134,B78362074134,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B68362074102,B68362074102,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28362074197,B28362074197,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08362074127,B08362074127,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08362074288,B08362074288,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B28362074274,B28362074274,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28362074110,B28362074110,B,09/10/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B38362074172,B38362074172,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B48362743092,B48362743092,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B78362743003,B78362743003,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B48362743016,B48362743016,B,09/11/2020,2020,US,59.65833,-151.59167,1.0,01,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B28940260760,B28940260760,B,10/08/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38940037338,B38940037338,B,10/08/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B98940232333,B98940232333,B,10/07/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940342619,B48940342619,B,10/08/2014,2014,CA,53.91667,-111.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B09010413631,B09010413631,B,10/08/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,8.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Third Year,Female
+B68940260778,B68940260778,B,10/08/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940230140,B08940230140,B,10/08/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940332480,B88940332480,B,10/08/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,5.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Unknown
+B38940342280,B38940342280,B,10/08/2014,2014,CA,53.91667,-111.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940342293,B48940342293,B,10/08/2014,2014,CA,53.91667,-111.41667,10.0,47,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B08940260708,B08940260708,B,10/07/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B38940342204,B38940342204,B,10/07/2014,2014,CA,53.91667,-111.41667,10.0,47,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B08940260789,B08940260789,B,10/07/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B38940037419,B38940037419,B,10/07/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Unknown
+B38940037494,B38940037494,B,10/07/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B28940230280,B28940230280,B,10/07/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940037467,B48940037467,B,10/07/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B48940232342,B48940232342,B,10/07/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88940232322,B88940232322,B,10/07/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38940230292,B38940230292,B,10/07/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08940230274,B08940230274,B,10/07/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940232358,B08940232358,B,10/07/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B08940037313,B08940037313,B,10/08/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940037397,B08940037397,B,10/09/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88940260649,B88940260649,B,10/08/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B28940121811,B28940121811,B,10/08/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B78940037349,B78940037349,B,10/08/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940037327,B08940037327,B,10/08/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Unknown
+B48940037300,B48940037300,B,10/08/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B48940332474,B48940332474,B,10/08/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940332353,B08940332353,B,10/08/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940332334,B98940332334,B,10/08/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B28940342624,B28940342624,B,10/08/2014,2014,CA,53.91667,-111.41667,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B49010413643,B49010413643,B,10/08/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38940342608,B38940342608,B,10/08/2014,2014,CA,53.91667,-111.41667,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B38232859468,B38232859468,B,10/08/2014,2014,CA,53.08333,-113.41667,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08940342274,B08940342274,B,10/09/2014,2014,CA,53.91667,-111.25,10.0,47,3720,3.0,8.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Third Year,Female
+B38232859352,B38232859352,B,10/09/2014,2014,CA,53.08333,-113.41667,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B68940260638,B68940260638,B,10/09/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B68940260616,B68940260616,B,10/09/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38940037354,B38940037354,B,10/08/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88940332329,B88940332329,B,10/08/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B48940332340,B48940332340,B,10/08/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940332469,B28940332469,B,10/08/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940813794,B08940813794,B,10/24/2014,2014,CA,42.58333,-80.41667,10.0,47,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B98940813778,B98940813778,B,10/24/2014,2014,CA,42.58333,-80.41667,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B18940813654,B18940813654,B,10/24/2014,2014,CA,42.58333,-80.41667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940357610,B98940357610,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08940395550,B08940395550,B,10/24/2014,2014,CA,43.6825,-80.40806,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940506450,B08940506450,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940506430,B08940506430,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940819884,B88940819884,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B48940819868,B48940819868,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B48940810668,B48940810668,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940819558,B08940819558,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940819540,B48940819540,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940819534,B98940819534,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B68940260690,B68940260690,B,10/09/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940232304,B28940232304,B,10/09/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38940232310,B38940232310,B,10/09/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940037290,B98940037290,B,10/10/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B18940230152,B18940230152,B,10/07/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B98940037370,B98940037370,B,10/09/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940037360,B88940037360,B,10/09/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38940037257,B38940037257,B,10/09/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940037243,B08940037243,B,10/09/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B38940332318,B38940332318,B,10/09/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B48940342694,B48940342694,B,10/09/2014,2014,CA,53.91667,-111.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940342269,B48940342269,B,10/09/2014,2014,CA,53.91667,-111.41667,10.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B18940121881,B18940121881,B,10/10/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B09010413610,B09010413610,B,10/10/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940037230,B08940037230,B,10/10/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940037279,B28940037279,B,10/10/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B48940037220,B48940037220,B,10/10/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B88940037209,B88940037209,B,10/10/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28940121898,B28940121898,B,10/10/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940260620,B08940260620,B,10/09/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38940342689,B38940342689,B,10/10/2014,2014,CA,53.91667,-111.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940342662,B48940342662,B,10/10/2014,2014,CA,53.91667,-111.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940342678,B08940342678,B,10/10/2014,2014,CA,53.91667,-111.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940341558,B08940341558,B,10/10/2014,2014,CA,53.91667,-111.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18940342153,B18940342153,B,10/10/2014,2014,CA,53.91667,-111.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940342140,B28940342140,B,10/10/2014,2014,CA,53.91667,-111.41667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940342134,B48940342134,B,10/10/2014,2014,CA,53.91667,-111.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940260672,B08940260672,B,10/10/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940037214,B98940037214,B,10/10/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Unknown
+B88940037284,B88940037284,B,10/10/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78940037268,B78940037268,B,10/10/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940037383,B48940037383,B,10/09/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28940260686,B28940260686,B,10/09/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940260602,B28940260602,B,10/09/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88940819529,B88940819529,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B58940819518,B58940819518,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940819509,B98940819509,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B88940819960,B88940819960,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940819954,B08940819954,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940819949,B48940819949,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940819938,B98940819938,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B88940819929,B88940819929,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940514544,B48940514544,B,10/24/2014,2014,CA,44.24139,-79.54333,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B98940813693,B98940813693,B,10/24/2014,2014,CA,42.58333,-80.41667,10.0,47,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B88940813681,B88940813681,B,10/24/2014,2014,CA,42.58333,-80.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18940810698,B18940810698,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08940810628,B08940810628,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B18940810610,B18940810610,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940819911,B98940819911,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940819908,B98940819908,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B98940819999,B98940819999,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940819981,B98940819981,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940819841,B88940819841,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940819071,B08940819071,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940819820,B98940819820,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B88940819809,B88940819809,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18940819418,B18940819418,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18940819491,B18940819491,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B08940819470,B08940819470,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B38940819351,B38940819351,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,6.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Male
+B18940819330,B18940819330,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940819319,B08940819319,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B48940819308,B48940819308,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B48940819389,B48940819389,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940819369,B88940819369,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B69122687802,B69122687802,B,10/08/2014,2014,CA,55.19806,-119.22472,0.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18940121802,B18940121802,B,10/08/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B19010413624,B19010413624,B,10/08/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940819068,B48940819068,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B18940819098,B18940819098,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B58940819599,B58940819599,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940810601,B88940810601,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B18940819579,B18940819579,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B98940819459,B98940819459,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B48940819439,B48940819439,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B89010851720,B89010851720,B,10/24/2014,2014,CA,43.625,-79.325,1.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B09010851719,B09010851719,B,10/24/2014,2014,CA,43.625,-79.325,1.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B19010851789,B19010851789,B,10/24/2014,2014,CA,43.625,-79.325,1.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B99010851765,B99010851765,B,10/24/2014,2014,CA,43.625,-79.325,1.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940357693,B98940357693,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B68940357674,B68940357674,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B58940356554,B58940356554,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940506536,B08940506536,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08940506515,B08940506515,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940506590,B08940506590,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940506570,B98940506570,B,10/24/2014,2014,CA,42.91667,-79.91667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940810680,B88940810680,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B18940819019,B18940819019,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B08940810671,B08940810671,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940813638,B08940813638,B,10/24/2014,2014,CA,42.58333,-80.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940813611,B98940813611,B,10/24/2014,2014,CA,42.58333,-80.41667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940813051,B98940813051,B,10/24/2014,2014,CA,42.58333,-80.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940819208,B88940819208,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88940819120,B88940819120,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,6.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Male
+B88940819281,B88940819281,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940819260,B98940819260,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B48940819141,B48940819141,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940819109,B98940819109,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940819184,B98940819184,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B88940819168,B88940819168,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,5.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Male
+B88940819044,B88940819044,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940819039,B08940819039,B,10/24/2014,2014,CA,42.58333,-80.08333,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B48940230269,B48940230269,B,10/07/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940242320,B88940242320,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940260724,B88940260724,B,10/07/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,5.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Male
+B98940232579,B98940232579,B,10/03/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940036730,B98940036730,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78940036719,B78940036719,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B68940036789,B68940036789,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940036766,B08940036766,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B88940036870,B88940036870,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940036836,B08940036836,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B48940036823,B48940036823,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Male
+B98940036810,B98940036810,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88940036800,B88940036800,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940036893,B98940036893,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940036880,B88940036880,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B68940036864,B68940036864,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08940036753,B08940036753,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940036740,B48940036740,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940036724,B88940036724,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B68940036708,B68940036708,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940243714,B08940243714,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940243790,B08940243790,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940243779,B98940243779,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,8.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Third Year,Female
+B48940243650,B48940243650,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940243639,B08940243639,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18940121984,B18940121984,B,10/03/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B08940232590,B08940232590,B,10/03/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98232890378,B98232890378,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940232514,B08940232514,B,10/03/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38940232532,B38940232532,B,10/02/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940332433,B08940332433,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940332410,B98940332410,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B98940332493,B98940332493,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940232520,B28940232520,B,10/03/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940232509,B48940232509,B,10/03/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940232584,B48940232584,B,10/03/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B68940260859,B68940260859,B,10/03/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B08940163478,B08940163478,B,10/03/2014,2014,CA,55.19806,-119.22472,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38940163354,B38940163354,B,10/03/2014,2014,CA,55.19806,-119.22472,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B89122687837,B89122687837,B,10/03/2014,2014,CA,55.19806,-119.22472,0.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B89122687816,B89122687816,B,10/03/2014,2014,CA,55.19806,-119.22472,0.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B68940036638,B68940036638,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B79122687828,B79122687828,B,10/03/2014,2014,CA,55.19806,-119.22472,0.0,11,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B18940163489,B18940163489,B,10/03/2014,2014,CA,55.19806,-119.22472,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940163463,B48940163463,B,10/03/2014,2014,CA,55.19806,-119.22472,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B58940125105,B58940125105,B,10/03/2014,2014,CA,53.30833,-114.72722,0.0,47,3720,3.0,5.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Unknown
+B58940125188,B58940125188,B,10/03/2014,2014,CA,53.30833,-114.72722,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18940125162,B18940125162,B,10/03/2014,2014,CA,53.30833,-114.72722,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18940125118,B18940125118,B,10/03/2014,2014,CA,53.30833,-114.72722,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18940125199,B18940125199,B,10/03/2014,2014,CA,53.30833,-114.72722,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18940271908,B18940271908,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88232890362,B88232890362,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B38940230398,B38940230398,B,10/02/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940243613,B98940243613,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B88232890249,B88232890249,B,10/01/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08232890222,B08232890222,B,10/01/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B18232898159,B18232898159,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98232898132,B98232898132,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98232898053,B98232898053,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28232898112,B28232898112,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28232898193,B28232898193,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B28232898178,B28232898178,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B28232898038,B28232898038,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B28232898019,B28232898019,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B88232898089,B88232898089,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88232890202,B88232890202,B,10/01/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28232890250,B28232890250,B,10/01/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B28232890238,B28232890238,B,10/01/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B98232890213,B98232890213,B,10/01/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B98232890292,B98232890292,B,10/01/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B38232898108,B38232898108,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,41,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B28940242384,B28940242384,B,10/01/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B69010635560,B69010635560,B,10/01/2014,2014,CA,49.25,-119.58333,10.0,07,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B09010635456,B09010635456,B,10/01/2014,2014,CA,49.25,-119.58333,10.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B99010635440,B99010635440,B,10/01/2014,2014,CA,49.25,-119.58333,10.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940271994,B98940271994,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940243604,B88940243604,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940243872,B08940243872,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940243628,B48940243628,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78940243753,B78940243753,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28940243720,B28940243720,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78940036794,B78940036794,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B38940036778,B38940036778,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940036654,B98940036654,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B88940036649,B88940036649,B,10/03/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28940260848,B28940260848,B,10/03/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B28940125175,B28940125175,B,10/03/2014,2014,CA,53.30833,-114.72722,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B38940232450,B38940232450,B,10/04/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940232439,B08940232439,B,10/04/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940232412,B98940232412,B,10/04/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28940121979,B28940121979,B,10/04/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940243709,B48940243709,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940243784,B48940243784,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940271919,B98940271919,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08232890389,B08232890389,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,41,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18940271989,B18940271989,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28940271961,B28940271961,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88940271849,B88940271849,B,09/30/2014,2014,CA,48.41667,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940243768,B88940243768,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940243644,B28940243644,B,09/30/2014,2014,CA,48.25,-123.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28940230362,B28940230362,B,10/02/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38940230310,B38940230310,B,10/02/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B78940260719,B78940260719,B,10/07/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B28940260929,B28940260929,B,09/30/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940125280,B88940125280,B,09/30/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B08940036078,B08940036078,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B68940036940,B68940036940,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B08940036929,B08940036929,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940036999,B08940036999,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940121942,B48940121942,B,09/30/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940036089,B88940036089,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B68940036066,B68940036066,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940036950,B98940036950,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,6.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Unknown
+B38940036934,B38940036934,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940036918,B08940036918,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940036906,B48940036906,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940036019,B98940036019,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940036094,B98940036094,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B98940125291,B98940125291,B,09/30/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B08940260918,B08940260918,B,09/30/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18940310774,B18940310774,E,10/03/2014,2014,US,47.60389,-122.52833,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940310731,B98940310731,E,02/20/2014,2014,US,47.58361,-122.50278,0.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B48940260900,B48940260900,B,09/30/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940260952,B98940260952,B,09/30/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B98940310171,B98940310171,E,01/26/2014,2014,US,47.60389,-122.52833,0.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B08940121951,B08940121951,B,09/30/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B68940658635,B68940658635,B,09/29/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88940658626,B88940658626,B,09/29/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B58940658610,B58940658610,B,09/29/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B68940658604,B68940658604,B,09/29/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B58940658696,B58940658696,B,09/29/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B68940658680,B68940658680,B,09/29/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940658674,B08940658674,B,09/29/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940260024,B48940260024,B,09/29/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940260008,B88940260008,B,09/29/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940260089,B88940260089,B,09/29/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,5.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Unknown
+B08940125232,B08940125232,B,09/29/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940125210,B98940125210,B,09/29/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B18940121080,B18940121080,B,09/29/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940334673,B08940334673,B,09/29/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940333553,B08940333553,B,09/29/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B39010413820,B39010413820,B,09/29/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B49010413800,B49010413800,B,09/29/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B19010413890,B19010413890,B,09/29/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B09010413870,B09010413870,B,09/29/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B79010413750,B79010413750,B,09/29/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940260078,B08940260078,B,09/30/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940310740,B48940310740,E,01/27/2014,2014,US,47.58361,-122.50278,0.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B88940310801,B88940310801,E,01/26/2014,2014,US,47.60389,-122.52833,0.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B88940260966,B88940260966,B,10/02/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940121920,B88940121920,B,10/02/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B18940121909,B18940121909,B,10/02/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940036988,B48940036988,B,10/02/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940036963,B88940036963,B,10/02/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B38940036859,B38940036859,B,10/02/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B48940125140,B48940125140,B,10/02/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940125129,B88940125129,B,10/02/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940125134,B98940125134,B,10/02/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940125151,B08940125151,B,10/02/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B19010413730,B19010413730,B,10/02/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B09010413713,B09010413713,B,10/02/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B19010413783,B19010413783,B,10/02/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,7.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Third Year,Female
+B98940036976,B98940036976,B,10/02/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B08940036848,B08940036848,B,10/02/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B88232859483,B88232859483,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B28232859472,B28232859472,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,41,3720,3.0,2.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Male
+B48940332423,B48940332423,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,5.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Unknown
+B88940332404,B88940332404,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38940332458,B38940332458,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B38940332442,B38940332442,B,10/02/2014,2014,CA,53.08333,-113.41667,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B19010413701,B19010413701,B,10/02/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B08940260060,B08940260060,B,09/30/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940230380,B08940230380,B,10/02/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940260940,B08940260940,B,09/30/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B68940260934,B68940260934,B,09/30/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,6.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Second Year,Female
+B39010413741,B39010413741,B,09/30/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940036008,B88940036008,B,09/30/2014,2014,CA,50.75,-114.25,10.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B08940260999,B08940260999,B,10/01/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B98940121931,B98940121931,B,10/01/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B88940230328,B88940230328,B,10/01/2014,2014,CA,49.66389,-110.30306,0.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940125274,B28940125274,B,10/01/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B58940125269,B58940125269,B,10/01/2014,2014,CA,53.3775,-112.92444,0.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B48940260988,B48940260988,B,10/01/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B28940232543,B28940232543,B,10/02/2014,2014,CA,56.25,-117.58333,10.0,47,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940260970,B98940260970,B,10/02/2014,2014,CA,53.35833,-112.40833,1.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B68940163494,B68940163494,B,10/02/2014,2014,CA,55.19806,-119.22472,0.0,47,3720,3.0,5.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Unknown
+B69122687641,B69122687641,B,10/02/2014,2014,CA,55.19806,-119.22472,0.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B09010413799,B09010413799,B,10/02/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Female
+B09010413771,B09010413771,B,10/02/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,8.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Third Year,Female
+B49010413729,B49010413729,B,10/02/2014,2014,CA,55.40833,-114.80833,1.0,07,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B98940121914,B98940121914,B,10/02/2014,2014,CA,53.39167,-112.775,1.0,47,3720,3.0,5.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Second Year,Female
+B99322359523,B99322359523,B,10/14/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709799,B29422709799,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709939,B49422709939,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709884,B79422709884,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709109,B99422709109,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709972,B09422709972,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709902,B99422709902,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709062,B29422709062,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709039,B09422709039,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709179,B09422709179,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709777,B49422709777,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39232362922,B39232362922,B,11/20/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09422709739,B09422709739,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709869,B29422709869,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709822,B99422709822,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709762,B99422709762,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709780,B29422709780,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709710,B29422709710,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709729,B79422709729,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709752,B79422709752,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709879,B29422709879,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49420638250,B49420638250,B,10/02/1965,1965,US,43.58333,-87.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29422709707,B29422709707,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709892,B09422709892,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19132798091,B19132798091,B,10/10/1965,1965,US,44.08333,-87.58333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59322359572,B59322359572,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69560205545,B69560205545,B,09/27/1965,1965,US,42.08333,-70.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99192023549,B99192023549,B,09/25/1965,1965,US,42.58333,-72.41667,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69352566542,B69352566542,B,09/19/1965,1965,US,42.58333,-72.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49402856735,B49402856735,B,12/02/1965,1965,US,36.08333,-79.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89400748544,B89400748544,B,09/02/1965,1965,US,35.75,-82.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B29560692625,B29560692625,B,09/05/1965,1965,US,41.58333,-70.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709640,B79422709640,B,10/15/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322359442,B99322359442,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322359453,B39322359453,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59322359593,B59322359593,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709744,B99422709744,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59322359512,B59322359512,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462894779,B99462894779,B,10/15/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79462894796,B79462894796,B,10/15/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79462894714,B79462894714,B,10/15/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49322359432,B49322359432,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322359563,B39322359563,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322359582,B99322359582,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709612,B49422709612,B,10/15/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709659,B09422709659,B,10/15/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99132798008,B99132798008,B,10/10/1965,1965,US,44.08333,-87.58333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B19132798019,B19132798019,B,10/10/1965,1965,US,44.08333,-87.58333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59192023510,B59192023510,B,10/04/1965,1965,US,42.58333,-72.41667,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69378469418,B69378469418,B,10/23/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49322393439,B49322393439,B,10/22/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322393583,B39322393583,B,10/22/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322393579,B99322393579,B,10/22/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322393443,B99322393443,B,10/22/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322393509,B39322393509,B,10/22/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322393452,B39322393452,B,10/22/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322393423,B39322393423,B,10/23/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99378469424,B99378469424,B,10/23/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49378469407,B49378469407,B,10/23/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79378469463,B79378469463,B,10/24/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322359362,B99322359362,B,10/19/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49378469488,B49378469488,B,10/24/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69378469494,B69378469494,B,10/24/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29462893239,B29462893239,B,10/24/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462893256,B99462893256,B,10/24/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89378469477,B89378469477,B,10/24/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462893244,B89462893244,B,10/24/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322393403,B39322393403,B,10/25/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322393419,B99322393419,B,10/25/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322393493,B99322393493,B,10/25/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59322393592,B59322393592,B,10/22/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322393563,B39322393563,B,10/22/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322393522,B99322393522,B,10/21/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322393543,B29322393543,B,10/21/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39462893359,B39462893359,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462893488,B89462893488,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322359243,B39322359243,B,10/19/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462893454,B49462893454,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49440639544,B49440639544,B,10/15/1965,1965,US,45.25,-96.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29462893472,B29462893472,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39462893429,B39462893429,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69422709674,B69422709674,B,10/19/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709669,B99422709669,B,10/20/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462893379,B49462893379,B,10/20/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59422708554,B59422708554,B,10/20/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462893384,B69462893384,B,10/20/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462893326,B89462893326,B,10/20/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29462893314,B29462893314,B,10/20/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462893363,B99462893363,B,10/20/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29462893396,B29462893396,B,10/20/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462893309,B69462893309,B,10/20/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322393532,B39322393532,B,10/21/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59322393513,B59322393513,B,10/21/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99192023522,B99192023522,B,09/29/1965,1965,US,42.58333,-72.41667,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39192023502,B39192023502,B,10/05/1965,1965,US,42.58333,-72.41667,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69232362939,B69232362939,B,11/20/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B49462893536,B49462893536,B,10/17/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39462893589,B39462893589,B,10/18/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462893573,B99462893573,B,10/18/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49440168906,B49440168906,B,10/17/1965,1965,CA,43.25,-79.91667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462894662,B69462894662,B,10/17/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29462894678,B29462894678,B,10/17/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462894689,B89462894689,B,10/17/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89342815488,B89342815488,B,08/02/1965,1965,US,45.91667,-69.41667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B59222552532,B59222552532,B,09/02/1965,1965,US,45.08333,-70.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B99422934203,B99422934203,B,09/03/1965,1965,US,43.91667,-69.41667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B29462893558,B29462893558,B,10/17/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462893524,B99462893524,B,10/18/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09440168999,B09440168999,B,10/17/1965,1965,CA,43.25,-79.91667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462894639,B69462894639,B,10/16/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39232362903,B39232362903,B,11/24/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B39232362986,B39232362986,B,12/05/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29322359302,B29322359302,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39462893503,B39462893503,B,10/18/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709682,B99422709682,B,10/18/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29232362992,B29232362992,B,12/05/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B19322133402,B19322133402,B,10/23/1965,1965,US,40.08333,-75.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09462136072,B09462136072,B,11/16/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322133342,B39322133342,B,11/14/1965,1965,US,40.08333,-75.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29132272529,B29132272529,B,11/09/1965,1965,US,40.58333,-79.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322133351,B39322133351,B,11/06/1965,1965,US,40.08333,-75.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322133463,B29322133463,B,11/05/1965,1965,US,40.08333,-75.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29232362942,B29232362942,B,11/04/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B99462136081,B99462136081,B,10/30/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19322914379,B19322914379,B,10/30/1965,1965,US,40.08333,-79.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B39322132492,B39322132492,B,10/30/1965,1965,US,40.08333,-75.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B39322133412,B39322133412,B,10/06/1965,1965,US,40.08333,-75.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462893569,B89462893569,B,10/18/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462893402,B89462893402,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462893499,B99462893499,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462893466,B69462893466,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462893332,B99462893332,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59322359255,B59322359255,B,10/19/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462893418,B99462893418,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59462893594,B59462893594,B,10/18/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709692,B49422709692,B,10/18/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59462893519,B59462893519,B,10/18/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59322359339,B59322359339,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29232362973,B29232362973,B,12/05/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B19192023533,B19192023533,B,10/06/1965,1965,US,42.58333,-72.41667,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709622,B29422709622,B,10/15/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462894694,B99462894694,B,10/16/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462894608,B89462894608,B,10/16/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322359372,B39322359372,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462894644,B99462894644,B,10/16/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322359502,B99322359502,B,10/15/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709604,B99422709604,B,10/15/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462894764,B89462894764,B,10/15/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462894784,B49462894784,B,10/15/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462894709,B49462894709,B,10/15/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709637,B29422709637,B,10/15/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322359423,B99322359423,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29232861378,B29232861378,B,11/02/1965,1965,US,42.25,-72.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39232861386,B39232861386,B,10/28/1965,1965,US,42.25,-72.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59342417592,B59342417592,B,10/26/1965,1965,US,41.91667,-71.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B39132538531,B39132538531,B,10/19/1965,1965,US,42.08333,-70.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29232861391,B29232861391,B,10/18/1965,1965,US,42.25,-72.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89487083258,B89487083258,B,10/15/1965,1965,US,41.25,-69.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B99487083368,B99487083368,B,10/14/1965,1965,US,41.25,-69.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B39192023580,B39192023580,B,10/09/1965,1965,US,42.58333,-72.41667,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59192023592,B59192023592,B,10/06/1965,1965,US,42.58333,-72.41667,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79307836436,B79307836436,B,10/16/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B49462441214,B49462441214,B,10/29/1965,1965,US,45.41667,-93.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B99232362962,B99232362962,B,12/19/1965,1965,US,39.91667,-75.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59322359419,B59322359419,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89232861321,B89232861321,B,07/11/1965,1965,US,43.25,-72.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B49462893433,B49462893433,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59322359493,B59322359493,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322359313,B29322359313,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322359353,B39322359353,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462894619,B99462894619,B,10/16/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462894656,B49462894656,B,10/16/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462894624,B49462894624,B,10/16/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89307836449,B89307836449,B,10/16/1965,1965,CA,43.75,-79.25,10.0,11,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B29322359383,B29322359383,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322359535,B39322359535,B,10/05/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322359395,B29322359395,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322359325,B39322359325,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322359349,B99322359349,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322359465,B29322359465,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322359479,B29322359479,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322359489,B39322359489,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462893449,B99462893449,B,10/19/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99372086322,B99372086322,B,06/29/1965,1965,US,45.41667,-93.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B39322359409,B39322359409,B,10/16/1965,1965,CA,41.91667,-82.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462441224,B69462441224,B,10/29/1965,1965,US,45.41667,-93.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B99462893289,B99462893289,B,10/26/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709077,B29422709077,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709099,B09422709099,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709010,B09422709010,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709029,B99422709029,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709052,B49422709052,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29372200520,B29372200520,B,07/17/1965,1965,US,39.25,-119.91667,10.0,11,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B29372200510,B29372200510,B,07/17/1965,1965,US,39.25,-119.91667,10.0,11,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B79372200502,B79372200502,B,07/17/1965,1965,US,39.25,-119.91667,10.0,11,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B29372200590,B29372200590,B,07/17/1965,1965,US,39.25,-119.91667,10.0,11,3720,3.0,4.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Local,Unknown
+B09372200539,B09372200539,B,06/21/1965,1965,US,39.25,-119.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B89440288214,B89440288214,B,11/19/1965,1965,US,42.58333,-83.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39232855462,B39232855462,B,11/16/1965,1965,US,40.58333,-95.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89440288224,B89440288224,B,11/08/1965,1965,US,42.58333,-83.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29440288230,B29440288230,B,11/08/1965,1965,US,42.58333,-83.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99440288242,B99440288242,B,10/29/1965,1965,US,42.58333,-83.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B29422683144,B29422683144,B,10/22/1965,1965,US,42.91667,-82.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422683152,B29422683152,B,10/20/1965,1965,US,42.91667,-82.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49352531431,B49352531431,B,10/16/1965,1965,US,44.25,-83.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99352531449,B99352531449,B,10/13/1965,1965,US,44.25,-83.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89342438543,B89342438543,B,09/24/1965,1965,US,47.08333,-88.58333,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B29352880590,B29352880590,B,06/05/1965,1965,US,43.08333,-85.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39372414179,B39372414179,B,05/30/1965,1965,US,43.25,-86.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B79422709080,B79422709080,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709949,B29422709949,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09420870069,B09420870069,B,10/17/1965,1965,US,38.91667,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709920,B99422709920,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59342573565,B59342573565,B,10/17/1965,1965,US,40.58333,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39462950312,B39462950312,B,10/17/1965,1965,US,40.58333,-73.41667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B89410681170,B89410681170,B,10/17/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B99410681364,B99410681364,B,10/17/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B29132576517,B29132576517,B,10/17/1965,1965,US,40.75,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99342573443,B99342573443,B,10/17/1965,1965,US,40.58333,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29132576596,B29132576596,B,10/17/1965,1965,US,40.75,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19410681380,B19410681380,B,10/17/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Male
+B59560532739,B59560532739,B,10/16/1965,1965,US,43.25,-77.58333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29322299223,B29322299223,B,10/13/1965,1965,US,41.25,-73.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39322299219,B39322299219,B,10/13/1965,1965,US,41.25,-73.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09410681396,B09410681396,B,10/11/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69352773672,B69352773672,B,10/10/1965,1965,US,40.75,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69410681326,B69410681326,B,10/06/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59342573599,B59342573599,B,10/03/1965,1965,US,40.58333,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79342573577,B79342573577,B,10/03/1965,1965,US,40.58333,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39342573583,B39342573583,B,10/03/1965,1965,US,40.58333,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89410681338,B89410681338,B,09/30/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709962,B79422709962,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709987,B99422709987,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709990,B99422709990,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09420870074,B09420870074,B,10/17/1965,1965,US,38.91667,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09122404530,B09122404530,B,09/22/1965,1965,US,39.08333,-79.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B39132576505,B39132576505,B,10/17/1965,1965,US,40.75,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709249,B79422709249,B,10/06/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709309,B29422709309,B,10/05/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709379,B49422709379,B,10/05/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709360,B99422709360,B,10/05/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462894802,B99462894802,B,10/05/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709394,B29422709394,B,10/05/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709459,B49422709459,B,10/03/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709449,B99422709449,B,10/03/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709412,B09422709412,B,10/03/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709430,B49422709430,B,10/03/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709402,B79422709402,B,10/03/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709427,B99422709427,B,10/03/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709567,B79422709567,B,10/03/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69440168934,B69440168934,B,10/03/1965,1965,CA,43.25,-79.91667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709497,B09422709497,B,10/03/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709482,B79422709482,B,10/04/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709319,B29422709319,B,10/04/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709332,B09422709332,B,10/04/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709342,B99422709342,B,10/04/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39422709357,B39422709357,B,10/04/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709464,B29422709464,B,10/04/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709472,B29422709472,B,10/04/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709202,B99422709202,B,10/06/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709220,B29422709220,B,10/06/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29372292542,B29372292542,B,09/15/1965,1965,US,39.08333,-79.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B09422709254,B09422709254,B,10/06/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99420870082,B99420870082,B,09/02/1965,1965,US,38.91667,-79.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B49420870090,B49420870090,B,08/31/1965,1965,US,38.91667,-79.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B79422709169,B79422709169,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709184,B99422709184,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462894748,B69462894748,B,10/13/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462894726,B99462894726,B,10/13/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462894732,B49462894732,B,10/13/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462894866,B49462894866,B,10/12/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29462894759,B29462894759,B,10/12/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462894888,B99462894888,B,10/11/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89462894872,B89462894872,B,10/11/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709150,B29422709150,B,10/07/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709290,B49422709290,B,10/07/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709287,B99422709287,B,10/07/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709262,B99422709262,B,10/07/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709147,B29422709147,B,10/07/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709122,B99422709122,B,10/07/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709132,B49422709132,B,10/07/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19422709114,B19422709114,B,10/07/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709217,B49422709217,B,10/06/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422709239,B29422709239,B,10/06/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89410681256,B89410681256,B,10/17/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B69410681161,B69410681161,B,10/17/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B99440329762,B99440329762,B,10/10/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B29422709954,B29422709954,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709044,B99422709044,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19422709192,B19422709192,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709814,B09422709814,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89422709832,B89422709832,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709850,B49422709850,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29372798237,B29372798237,B,03/23/1965,1965,US,41.91667,-89.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29422709542,B29422709542,B,03/31/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49422709534,B49422709534,B,03/31/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709529,B99422709529,B,04/01/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709500,B99422709500,B,04/01/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59422709519,B59422709519,B,04/01/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59422709599,B59422709599,B,04/02/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709589,B99422709589,B,04/06/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422709570,B09422709570,B,04/08/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49410594544,B49410594544,B,04/11/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59462855514,B59462855514,B,04/17/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49462894499,B49462894499,B,07/08/1965,1965,CA,42.58333,-80.41667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B29422719544,B29422719544,B,07/26/1965,1965,CA,45.91667,-79.91667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B49422793459,B49422793459,B,08/26/1965,1965,CA,50.75,-93.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59322357599,B59322357599,B,09/16/1965,1965,CA,42.41667,-82.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B89440288294,B89440288294,B,12/15/1965,1965,US,42.58333,-83.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79422709007,B79422709007,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709917,B99422709917,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99152488809,B99152488809,B,11/27/1965,1965,US,40.58333,-73.25,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99422709847,B99422709847,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49440329779,B49440329779,B,10/10/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B49420637433,B49420637433,B,10/11/1965,1965,US,43.58333,-87.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B79420637426,B79420637426,B,10/11/1965,1965,US,43.58333,-87.91667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B29440329654,B29440329654,B,10/11/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B39440329649,B39440329649,B,10/11/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09132798078,B09132798078,B,10/17/1965,1965,US,44.08333,-87.58333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B89410453835,B89410453835,B,10/19/1965,1965,US,44.58333,-90.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39410453824,B39410453824,B,10/22/1965,1965,US,44.58333,-90.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49440329613,B49440329613,B,10/25/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B49440329622,B49440329622,B,10/25/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09440329639,B09440329639,B,10/25/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B39342170310,B39342170310,B,10/27/1965,1965,US,42.75,-88.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B49440329692,B49440329692,B,10/28/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B99440329600,B99440329600,B,10/28/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09400147944,B09400147944,B,11/01/1965,1965,US,43.08333,-89.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99440329683,B99440329683,B,11/01/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B59440328550,B59440328550,B,11/01/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B99440329664,B99440329664,B,11/01/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B69440329670,B69440329670,B,11/01/1965,1965,US,43.58333,-87.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B49420183439,B49420183439,B,11/10/1965,1965,US,43.75,-90.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B79422709809,B79422709809,B,10/14/1965,1965,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09410622510,B09410622510,B,11/30/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19152488811,B19152488811,B,11/27/1965,1965,US,40.58333,-73.25,10.0,04,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49410681371,B49410681371,B,10/17/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Male
+B09410681154,B09410681154,B,10/30/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B19410681268,B19410681268,B,10/29/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B99410681289,B99410681289,B,10/29/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B49410681294,B49410681294,B,10/29/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B29410681271,B29410681271,B,10/29/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B99410681201,B99410681201,B,10/28/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B39322299293,B39322299293,B,10/26/1965,1965,US,41.25,-73.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49410681219,B49410681219,B,10/25/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B79342573412,B79342573412,B,10/24/1965,1965,US,40.58333,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09410681231,B09410681231,B,10/24/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B69410681240,B69410681240,B,10/24/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B39132576587,B39132576587,B,10/24/1965,1965,US,40.75,-73.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19410681224,B19410681224,B,10/24/1965,1965,US,40.58333,-73.75,10.0,12,3720,3.0,0.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Female
+B29322653143,B29322653143,B,01/02/1960,1960,US,40.75,-74.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462433383,B69462433383,B,10/27/1960,1960,US,40.91667,-74.58333,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B19420130042,B19420130042,B,11/11/1960,1960,US,41.08333,-74.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09560341030,B09560341030,B,11/15/1960,1960,US,41.08333,-74.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19560341026,B19560341026,B,12/06/1960,1960,US,41.08333,-74.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29462433393,B29462433393,B,10/19/1960,1960,US,40.91667,-74.58333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B99560902006,B99560902006,B,10/08/1960,1960,US,42.58333,-83.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B99478539185,B99478539185,B,12/29/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49342183381,B49342183381,B,10/18/1960,1960,US,41.58333,-90.58333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29422097542,B29422097542,B,09/07/1960,1960,CA,44.58333,-66.75,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B49420634540,B49420634540,B,10/13/1960,1960,US,41.25,-71.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39420634532,B39420634532,B,10/14/1960,1960,US,41.25,-71.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99462332964,B99462332964,B,12/03/1960,1960,US,34.08333,-79.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59452998509,B59452998509,B,05/22/1960,1960,US,44.91667,-68.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B89342815561,B89342815561,B,09/09/1960,1960,US,44.41667,-68.41667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B59442961514,B59442961514,B,10/19/1960,1960,US,44.41667,-68.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B19442961509,B19442961509,B,10/22/1960,1960,US,44.41667,-68.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59442961594,B59442961594,B,10/22/1960,1960,US,44.41667,-68.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09322007892,B09322007892,B,11/12/1960,1960,US,40.25,-74.91667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B69422186222,B69422186222,B,11/11/1960,1960,US,40.08333,-75.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09420130540,B09420130540,B,10/23/1960,1960,US,40.08333,-75.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322132581,B29322132581,B,04/17/1960,1960,US,40.08333,-75.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322899018,B99322899018,B,02/28/1960,1960,US,39.91667,-75.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B89322899002,B89322899002,B,02/28/1960,1960,US,39.91667,-75.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B99322899029,B99322899029,B,02/28/1960,1960,US,39.91667,-75.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B49342160506,B49342160506,B,07/12/1960,1960,US,47.25,-95.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B19342183241,B19342183241,B,11/04/1960,1960,US,41.58333,-90.58333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29322963559,B29322963559,B,11/07/1960,1960,US,38.91667,-77.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B49402813434,B49402813434,B,06/11/1960,1960,US,47.58333,-122.41667,10.0,11,3720,3.0,0.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Male
+B99560855845,B99560855845,B,02/11/1960,1960,CA,50.91667,-102.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59478530609,B59478530609,B,01/30/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39478530614,B39478530614,B,01/24/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09478530627,B09478530627,B,01/03/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49560485565,B49560485565,B,07/14/1960,1960,CA,53.91667,-113.41667,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B99452663766,B99452663766,B,10/10/1960,1960,US,42.58333,-85.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09422404454,B09422404454,B,10/13/1960,1960,US,41.08333,-73.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422404434,B29422404434,B,10/26/1960,1960,US,41.08333,-73.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99452075999,B99452075999,B,01/13/1960,1960,US,39.58333,-122.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B89492725839,B89492725839,B,01/24/1960,1960,US,39.58333,-122.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59452075985,B59452075985,B,02/27/1960,1960,US,39.58333,-122.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09560511151,B09560511151,B,01/16/1960,1960,US,39.25,-84.58333,10.0,11,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B19410869540,B19410869540,B,01/30/1960,1960,US,39.08333,-83.41667,10.0,11,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B69560511145,B69560511145,B,02/13/1960,1960,US,39.25,-84.58333,10.0,11,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B59560511130,B59560511130,B,02/13/1960,1960,US,39.25,-84.58333,10.0,11,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B99560511126,B99560511126,B,02/17/1960,1960,US,39.58333,-84.75,10.0,11,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B19560511115,B19560511115,B,11/20/1960,1960,US,39.25,-84.75,10.0,11,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B59560855859,B59560855859,B,01/30/1960,1960,CA,50.58333,-101.91667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49452675292,B49452675292,B,02/22/1960,1960,US,48.41667,-122.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B19440027114,B19440027114,B,09/28/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89478530679,B89478530679,B,01/30/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29372393393,B29372393393,B,12/04/1960,1960,US,42.25,-89.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29322299489,B29322299489,B,12/30/1960,1960,US,41.25,-73.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59560554040,B59560554040,B,07/30/1960,1960,US,41.75,-74.08333,10.0,11,3720,8.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B29392863318,B29392863318,B,12/26/1960,1960,US,39.58333,-85.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322216833,B29322216833,B,12/07/1960,1960,US,39.58333,-85.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29322216829,B29322216829,B,12/07/1960,1960,US,39.58333,-85.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99322216969,B99322216969,B,12/07/1960,1960,US,39.58333,-85.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79322770122,B79322770122,B,04/02/1960,1960,US,39.58333,-85.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59560511081,B59560511081,B,02/14/1960,1960,US,39.08333,-85.58333,10.0,11,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B09560511075,B09560511075,B,02/14/1960,1960,US,39.08333,-85.58333,10.0,11,3720,3.0,1.0,5.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Female
+B29560902065,B29560902065,B,11/20/1960,1960,US,42.58333,-83.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B99560902952,B99560902952,B,11/20/1960,1960,US,42.58333,-83.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09560902076,B09560902076,B,11/11/1960,1960,US,42.58333,-83.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29452502672,B29452502672,B,11/07/1960,1960,US,42.25,-85.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B39372101530,B39372101530,B,11/05/1960,1960,US,42.41667,-83.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59560902099,B59560902099,B,11/03/1960,1960,US,42.58333,-83.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B99560902080,B99560902080,B,10/31/1960,1960,US,42.58333,-83.25,10.0,11,3720,3.0,2.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Hatching Year,Unknown
+B89372798549,B89372798549,B,03/19/1960,1960,US,41.91667,-89.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B89322686376,B89322686376,B,02/25/1960,1960,US,42.75,-70.91667,10.0,11,3720,3.0,1.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Male
+B79440027109,B79440027109,B,10/04/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99452154964,B99452154964,B,01/24/1960,1960,US,48.75,-102.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B79440027184,B79440027184,B,10/06/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09410401091,B09410401091,B,10/06/1960,1960,US,43.58333,-87.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B29440027179,B29440027179,B,10/10/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09440027167,B09440027167,B,10/11/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462461864,B69462461864,B,10/14/1960,1960,US,44.91667,-91.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49410401161,B49410401161,B,10/17/1960,1960,US,43.58333,-87.91667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09410401170,B09410401170,B,10/18/1960,1960,US,43.58333,-87.91667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19410401184,B19410401184,B,10/18/1960,1960,US,43.58333,-87.91667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19410401190,B19410401190,B,10/19/1960,1960,US,43.58333,-87.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B19410401100,B19410401100,B,10/20/1960,1960,US,43.58333,-87.91667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19462461741,B19462461741,B,10/21/1960,1960,US,44.91667,-91.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79440027027,B79440027027,B,10/21/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99440027044,B99440027044,B,10/21/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49440027054,B49440027054,B,10/21/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09440027039,B09440027039,B,10/21/1960,1960,US,43.58333,-87.75,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19410401114,B19410401114,B,10/23/1960,1960,US,43.58333,-87.91667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59452154851,B59452154851,B,03/08/1960,1960,US,48.75,-102.08333,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B59478530684,B59478530684,B,01/30/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39478530697,B39478530697,B,01/30/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89440198544,B89440198544,B,12/04/1960,1960,CA,43.58333,-79.58333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49478539219,B49478539219,B,10/28/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79478539224,B79478539224,B,10/27/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89488909709,B89488909709,B,10/27/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99488909724,B99488909724,B,10/27/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59478539248,B59478539248,B,10/27/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89488909719,B89488909719,B,10/27/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39478539255,B39478539255,B,10/27/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89478539237,B89478539237,B,10/27/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99478539364,B99478539364,B,10/26/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79478539388,B79478539388,B,10/25/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49478539377,B49478539377,B,10/25/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89478539395,B89478539395,B,10/24/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79478539307,B79478539307,B,10/23/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89478539318,B89478539318,B,10/23/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39478539333,B39478539333,B,10/22/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39478539359,B39478539359,B,10/22/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59478539325,B59478539325,B,10/22/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89478539473,B89478539473,B,10/22/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49478539294,B49478539294,B,10/28/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99478539209,B99478539209,B,10/28/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79478539465,B79478539465,B,10/22/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79477692517,B79477692517,B,10/29/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Male
+B19568179249,B19568179249,B,12/03/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89568179237,B89568179237,B,12/03/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39338930589,B39338930589,B,11/20/1960,1960,CA,42.58333,-80.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39338930500,B39338930500,B,11/20/1960,1960,CA,42.58333,-80.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69568179307,B69568179307,B,11/19/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79477555545,B79477555545,B,11/11/1960,1960,CA,43.75,-79.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B89488909794,B89488909794,B,11/07/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89488909789,B89488909789,B,11/07/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69462845544,B69462845544,B,11/06/1960,1960,CA,43.75,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79478539149,B79478539149,B,10/30/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99478539263,B99478539263,B,10/29/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29477692549,B29477692549,B,10/29/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Male
+B89478539154,B89478539154,B,10/29/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99478539289,B99478539289,B,10/29/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29478539279,B29478539279,B,10/29/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B69477692527,B69477692527,B,10/29/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Male
+B99477692536,B99477692536,B,10/29/1960,1960,CA,43.58333,-79.41667,10.0,11,3720,3.0,0.0,4.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Male
+B99478539349,B99478539349,B,10/22/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89568179319,B89568179319,B,10/21/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B29422744584,B29422744584,B,02/26/1960,1960,CA,43.75,-79.41667,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79478538589,B79478538589,B,10/16/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79478538508,B79478538508,B,10/16/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89478538594,B89478538594,B,10/16/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59478538524,B59478538524,B,10/15/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B49568179431,B49568179431,B,10/13/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99568179428,B99568179428,B,10/13/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B89478538548,B89478538548,B,10/12/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99568179447,B99568179447,B,10/12/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B39478538537,B39478538537,B,10/12/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B59568179459,B59568179459,B,10/11/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B79568179571,B79568179571,B,10/10/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B19568179568,B19568179568,B,10/10/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99568179587,B99568179587,B,10/08/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B09338930548,B09338930548,B,04/18/1960,1960,CA,42.58333,-80.08333,10.0,11,3720,3.0,0.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,Unknown,Unknown
+B99477721522,B99477721522,B,04/13/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B49477721531,B49477721531,B,04/12/1960,1960,CA,43.75,-79.25,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown
+B09477580548,B09477580548,B,03/19/1960,1960,CA,43.75,-79.41667,10.0,11,3720,3.0,1.0,0.0,Northern Saw-whet Owl,Aegolius acadicus,After Hatching Year,Unknown

@@ -1,0 +1,1001 @@
+BAND,ORIGINAL_BAND,EVENT_TYPE,EVENT_DATE,EVENT_YEAR,ISO_COUNTRY,LAT_DD,LON_DD,CP,BAND_TYPE,SPECIES_ID,BIRD_STATUS,AGE_CODE,SEX_CODE,SPECIES_NAME,SCIENTIFIC_NAME,AGE_DESCRIPTION,SEX_DESCRIPTION
+B98717129268,B98717129268,B,12/26/2020,2020,US,38.5,-121.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88717626242,B88717626242,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717623217,B78717623217,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717623226,B18717623226,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717623232,B78717623232,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28717626297,B28717626297,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B68717626207,B68717626207,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B28717626211,B28717626211,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B68717626227,B68717626227,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B28717626236,B28717626236,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717626256,B78717626256,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18717625861,B18717625861,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B68717626367,B68717626367,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B28717626376,B28717626376,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B68717626382,B68717626382,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B38717626396,B38717626396,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18717623383,B18717623383,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717623398,B78717623398,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717623313,B78717623313,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B68717623328,B68717623328,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717623201,B88717623201,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717623372,B78717623372,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717623366,B88717623366,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38717623427,B38717623427,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717072988,B18717072988,B,8/25/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B58717065581,B58717065581,B,8/23/2020,2020,CA,50.5,-106.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B68717625721,B68717625721,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B28717625737,B28717625737,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B58717625746,B58717625746,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78717625752,B78717625752,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B68717623243,B68717623243,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28717623258,B28717623258,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717623302,B18717623302,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38717623341,B38717623341,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38717623357,B38717623357,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717623468,B18717623468,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717623477,B78717623477,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B68717623481,B68717623481,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28717623497,B28717623497,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B68717623407,B68717623407,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28717623411,B28717623411,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28717623337,B28717623337,B,8/22/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717625877,B78717625877,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78717072972,B78717072972,B,8/25/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99120183682,B99120183682,B,8/20/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B68717626306,B68717626306,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B38717626312,B38717626312,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88717626326,B88717626326,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B58967450539,B58967450539,B,8/21/2020,2020,CA,52.5,-106.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B68717625807,B68717625807,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B28717625816,B28717625816,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B39120183669,B39120183669,B,8/20/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69120183671,B69120183671,B,8/20/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99120183601,B99120183601,B,8/20/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B68717625886,B68717625886,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88717626487,B88717626487,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717626491,B78717626491,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88717626408,B88717626408,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717626417,B78717626417,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18717626421,B18717626421,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717626437,B78717626437,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B68717626446,B68717626446,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88717626561,B88717626561,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18717626347,B18717626347,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717626351,B78717626351,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717626338,B78717626338,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B48717626478,B48717626478,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B28717625892,B28717625892,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B59120182551,B59120182551,B,8/21/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B48717623436,B48717623436,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717623442,B88717623442,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717623453,B78717623453,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B68717623567,B68717623567,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28717623576,B28717623576,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38717623582,B38717623582,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B58717623593,B58717623593,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38717623506,B38717623506,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717623523,B88717623523,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717623538,B78717623538,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717623547,B18717623547,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B58717623512,B58717623512,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B58717065597,B58717065597,B,8/21/2020,2020,CA,50.5,-106.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B58717065507,B58717065507,B,8/21/2020,2020,CA,50.5,-106.5,60,W1,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B68717626466,B68717626466,B,8/21/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717072997,B78717072997,B,8/25/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072918,B78717072918,B,8/25/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717626586,B18717626586,B,8/20/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B59120157591,B59120157591,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B38717073020,B38717073020,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B08717073037,B08717073037,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88717073043,B88717073043,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717073058,B78717073058,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B08717073160,B08717073160,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717073177,B78717073177,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B38717073183,B38717073183,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18717073198,B18717073198,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79120157502,B79120157502,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B68717072638,B68717072638,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59120157510,B59120157510,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99120157521,B99120157521,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B78717073930,B78717073930,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18717073947,B18717073947,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717073953,B78717073953,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18717073067,B18717073067,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717073071,B78717073071,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717072617,B78717072617,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717073017,B78717073017,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B08717073001,B08717073001,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78717073090,B78717073090,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B08717073087,B08717073087,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B58717071597,B58717071597,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717071501,B18717071501,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19120157489,B19120157489,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B59120157491,B59120157491,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19120157407,B19120157407,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B59120157419,B59120157419,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79120157421,B79120157421,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49120157432,B49120157432,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99120157440,B99120157440,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19120157561,B19120157561,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B59120157572,B59120157572,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79120157580,B79120157580,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19120157451,B19120157451,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B98717073911,B98717073911,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88717073927,B88717073927,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29120157465,B29120157465,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09120157477,B09120157477,B,8/27/2020,2020,CA,51.5,-107.5,60,1,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B28717072622,B28717072622,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717072647,B88717072647,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717072902,B18717072902,B,8/25/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072857,B78717072857,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717072877,B88717072877,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717072880,B88717072880,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072897,B78717072897,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717072807,B88717072807,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072810,B78717072810,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18717072827,B18717072827,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072832,B78717072832,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B08717072848,B08717072848,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717072967,B88717072967,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072651,B78717072651,B,8/27/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B08717072762,B08717072762,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072778,B78717072778,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28717072787,B28717072787,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072791,B78717072791,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28717072708,B28717072708,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78717072717,B78717072717,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717072721,B88717072721,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88717073367,B88717073367,B,8/25/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B28717072861,B28717072861,B,8/26/2020,2020,CA,51.5,-107.5,60,W1,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112448,B18877112448,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99060907200,B99060907200,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B18877112458,B18877112458,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99060908649,B99060908649,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B78877112421,B78877112421,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877112407,B88877112407,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B69060908638,B69060908638,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69060907389,B69060907389,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877371203,B88877371203,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B69060907220,B69060907220,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060907249,B99060907249,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B58877370557,B58877370557,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877371668,B18877371668,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B68877371677,B68877371677,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371687,B88877371687,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371291,B88877371291,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371221,B78877371221,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89060908620,B89060908620,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99060907360,B99060907360,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B09060908619,B09060908619,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99060908600,B99060908600,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B69060907307,B69060907307,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B78877371257,B78877371257,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99060907320,B99060907320,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79060907340,B79060907340,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69060907460,B69060907460,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060907480,B99060907480,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060907406,B99060907406,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79060907429,B79060907429,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060907447,B99060907447,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79060907587,B79060907587,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79060907500,B79060907500,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B59060907517,B59060907517,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060907569,B99060907569,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060907530,B09060907530,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060907550,B09060907550,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060908670,B09060908670,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060908690,B09060908690,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B38877371248,B38877371248,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371178,B78877371178,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877112197,B78877112197,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877373688,B88877373688,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877373618,B88877373618,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B38877193349,B38877193349,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877193467,B78877193467,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877193489,B18877193489,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877193401,B18877193401,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877193423,B38877193423,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B48877193438,B48877193438,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877193448,B88877193448,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877193563,B18877193563,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877193588,B38877193588,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89060985176,B89060985176,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19060985199,B19060985199,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B59060985106,B59060985106,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060985129,B99060985129,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877371847,B88877371847,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B69060985145,B69060985145,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B59060985269,B59060985269,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877373603,B88877373603,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B38877373667,B38877373667,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877112108,B78877112108,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877371108,B18877371108,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112127,B18877112127,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877112141,B28877112141,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877112267,B78877112267,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112281,B18877112281,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112201,B18877112201,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877112222,B28877112222,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877112248,B88877112248,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877112341,B78877112341,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877112467,B28877112467,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877112481,B88877112481,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371851,B88877371851,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371973,B78877371973,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371693,B88877371693,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371607,B88877371607,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371623,B78877371623,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877371641,B38877371641,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877371187,B18877371187,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877194918,B78877194918,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B38877371007,B38877371007,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877371827,B18877371827,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371757,B78877371757,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B09060907237,B09060907237,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060907250,B09060907250,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877371763,B88877371763,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371777,B88877371777,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371798,B78877371798,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371711,B78877371711,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877371728,B38877371728,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877371747,B18877371747,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371868,B78877371868,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371063,B78877371063,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371878,B78877371878,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877371887,B38877371887,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371897,B78877371897,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877371808,B38877371808,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371817,B78877371817,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B98877371991,B98877371991,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B98877371917,B98877371917,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371921,B88877371921,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B09060907219,B09060907219,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060907290,B09060907290,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060908689,B99060908689,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69060908666,B69060908666,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877028887,B88877028887,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877112117,B78877112117,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877194927,B18877194927,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18877112131,B18877112131,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112152,B18877112152,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877112271,B78877112271,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112292,B18877112292,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112211,B18877112211,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877112238,B28877112238,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877112257,B88877112257,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112378,B18877112378,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877112397,B38877112397,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877112318,B38877112318,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877112337,B88877112337,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877112351,B78877112351,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99060907529,B99060907529,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69060907546,B69060907546,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877371948,B78877371948,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371077,B78877371077,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88967487208,B88967487208,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78967487267,B78967487267,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877345454,B88877345454,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B38877345567,B38877345567,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49060940614,B49060940614,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69060940639,B69060940639,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060940656,B09060940656,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49060940779,B49060940779,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79060940796,B79060940796,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79060940710,B79060940710,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B09060644750,B09060644750,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877371098,B78877371098,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49060644864,B49060644864,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89060644874,B89060644874,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99060644889,B99060644889,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B09060644890,B09060644890,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99060644804,B99060644804,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B09060644819,B09060644819,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B28967487278,B28967487278,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B98967487296,B98967487296,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B48877345437,B48877345437,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B28877371273,B28877371273,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371151,B78877371151,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371133,B88877371133,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877371011,B78877371011,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877371028,B18877371028,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371047,B88877371047,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371057,B88877371057,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877371168,B38877371168,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B08877371038,B08877371038,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877373637,B78877373637,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877373653,B78877373653,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877373768,B88877373768,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877373777,B88877373777,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877373787,B78877373787,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877373793,B78877373793,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B18877112362,B18877112362,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877112388,B28877112388,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877112308,B28877112308,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877112327,B88877112327,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877371127,B88877371127,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29060985278,B29060985278,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B78877340508,B78877340508,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B48877194941,B48877194941,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877373953,B78877373953,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877026336,B88877026336,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B69060644980,B69060644980,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B69060644906,B69060644906,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49060644934,B49060644934,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49060644066,B49060644066,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B09060644174,B09060644174,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B38877373908,B38877373908,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877373927,B88877373927,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B69060644104,B69060644104,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B48877194068,B48877194068,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B69060644120,B69060644120,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19060644156,B19060644156,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B38877373743,B38877373743,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877373863,B78877373863,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B38877373883,B38877373883,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877108818,B88877108818,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877112588,B78877112588,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877112598,B78877112598,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877026310,B38877026310,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877026392,B38877026392,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877026377,B28877026377,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877026252,B88877026252,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59060961516,B59060961516,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B09060961539,B09060961539,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B38877340527,B38877340527,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B18877193327,B18877193327,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877371567,B38877371567,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877371588,B18877371588,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B58877371518,B58877371518,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877372848,B38877372848,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877372967,B88877372967,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877372617,B78877372617,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877372727,B88877372727,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877372743,B78877372743,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877372877,B88877372877,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877372897,B88877372897,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877372827,B78877372827,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877026218,B28877026218,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877026237,B28877026237,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B18877112528,B18877112528,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B48877374948,B48877374948,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B48877374067,B48877374067,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B48967486684,B48967486684,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88967486648,B88967486648,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88967486776,B88967486776,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B68967486706,B68967486706,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B98967487219,B98967487219,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B58877345594,B58877345594,B,8/19/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B58877345513,B58877345513,B,8/19/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B58877195748,B58877195748,B,8/19/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877026812,B88877026812,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B48877340537,B48877340537,B,8/19/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B69060963620,B69060963620,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B69060961546,B69060961546,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877193537,B88877193537,B,8/19/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99060963646,B99060963646,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99060963760,B99060963760,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B09060962270,B09060962270,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877028967,B88877028967,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B69060962290,B69060962290,B,8/19/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88967486614,B88967486614,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B09060985316,B09060985316,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877374094,B88877374094,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B69060985229,B69060985229,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B78877374197,B78877374197,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877374118,B78877374118,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B69060644280,B69060644280,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B68967487468,B68967487468,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88967487499,B88967487499,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78967487429,B78967487429,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88967487337,B88967487337,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B98967487538,B98967487538,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49060644856,B49060644856,B,8/19/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B38877373807,B38877373807,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B38877373828,B38877373828,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877373857,B88877373857,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877373978,B78877373978,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99060985208,B99060985208,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060985246,B99060985246,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060985369,B99060985369,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69060985386,B69060985386,B,8/19/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B59060961590,B59060961590,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99060962129,B99060962129,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69060962106,B69060962106,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877107927,B88877107927,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877107940,B78877107940,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B98877107917,B98877107917,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877107068,B78877107068,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877107077,B78877107077,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18877107087,B18877107087,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B08877107091,B08877107091,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18877107007,B18877107007,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B08877107017,B08877107017,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877107021,B78877107021,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B08877107030,B08877107030,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877107047,B88877107047,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877374717,B78877374717,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877374724,B88877374724,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B48877374864,B48877374864,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877374878,B88877374878,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877374897,B88877374897,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877374748,B78877374748,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877107931,B88877107931,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877107908,B78877107908,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877374818,B88877374818,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B98877107997,B98877107997,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877194087,B88877194087,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B98877109667,B98877109667,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877109681,B88877109681,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877109607,B88877109607,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B18877107408,B18877107408,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877108738,B88877108738,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877108748,B78877108748,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877108757,B78877108757,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877108868,B88877108868,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877108878,B88877108878,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877108888,B88877108888,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877374983,B78877374983,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877374997,B78877374997,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877374913,B78877374913,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877374934,B78877374934,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877108710,B78877108710,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877108728,B88877108728,B,8/20/2014,2014,CA,51.5,-105.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B88877374808,B88877374808,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877374827,B78877374827,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B69060962182,B69060962182,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B08877026602,B08877026602,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877026647,B88877026647,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B28877026778,B28877026778,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B08877026768,B08877026768,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B69060756946,B69060756946,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29060962146,B29060962146,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69060962269,B69060962269,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B48877345418,B48877345418,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B58877345427,B58877345427,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877345443,B88877345443,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B48877345577,B48877345577,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B58877345583,B58877345583,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877028878,B88877028878,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877028897,B88877028897,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877028817,B88877028817,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877028830,B78877028830,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B28877028858,B28877028858,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877028970,B88877028970,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B68877026628,B68877026628,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B08877026686,B08877026686,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877374843,B38877374843,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877026660,B78877026660,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877374857,B78877374857,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877374967,B88877374967,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B78877374837,B78877374837,B,8/20/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B09060940620,B09060940620,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060940640,B99060940640,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99060940760,B99060940760,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060940780,B09060940780,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09060940709,B09060940709,B,8/20/2014,2014,CA,51.5,-102.5,60,41,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B88877330253,B88877330253,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877330377,B38877330377,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877330393,B38877330393,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877330317,B38877330317,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877330333,B88877330333,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877330358,B78877330358,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B48877330473,B48877330473,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877330498,B88877330498,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877330410,B88877330410,B,8/20/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877028982,B78877028982,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877330018,B88877330018,B,8/21/2014,2014,CA,51.5,-109.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B08877028842,B08877028842,B,8/20/2014,2014,CA,53.5,-108.5,60,41,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B88877300497,B88877300497,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B08877300370,B08877300370,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877300240,B88877300240,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877300398,B38877300398,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B38877300310,B38877300310,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877300328,B88877300328,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877300347,B78877300347,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B08877300468,B08877300468,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B48877300478,B48877300478,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B88877300417,B88877300417,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B78877308518,B78877308518,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B78877300433,B78877300433,B,8/21/2014,2014,CA,52.5,-107.5,60,41,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29347423413,B29347423413,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49347424684,B49347424684,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29347423253,B29347423253,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347423063,B49347423063,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347423693,B39347423693,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347423074,B79347423074,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B89347831163,B89347831163,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317822268,B19317822268,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317822397,B39317822397,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79347423759,B79347423759,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49347423437,B49347423437,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B79347812119,B79347812119,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347831579,B39347831579,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347424673,B79347424673,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19317823112,B19317823112,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79347812032,B79347812032,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347812613,B19347812613,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99497787544,B99497787544,B,8/27/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99497787448,B99497787448,B,8/27/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99347423603,B99347423603,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B59347813519,B59347813519,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347424183,B49347424183,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347424824,B49347424824,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B69347424634,B69347424634,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347423883,B49347423883,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347423872,B79347423872,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99317822957,B99317822957,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49497787938,B49497787938,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347424654,B39347424654,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79317823633,B79317823633,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39317823773,B39317823773,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79317823711,B79317823711,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347813293,B39347813293,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347831071,B79347831071,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347813348,B39347813348,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347813477,B79347813477,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99347422569,B99347422569,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347422503,B49347422503,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B29347422534,B29347422534,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B89317822521,B89317822521,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69347423673,B69347423673,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49347423623,B49347423623,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347423787,B49347423787,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347423717,B79347423717,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29347423813,B29347423813,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49347423969,B49347423969,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B39347423984,B39347423984,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49347423942,B49347423942,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29347423094,B29347423094,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317823683,B99317823683,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09347423032,B09347423032,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347424627,B49347424627,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89347832769,B89347832769,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347424704,B49347424704,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59347423592,B59347423592,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79497787427,B79497787427,B,8/27/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317823209,B99317823209,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29317823252,B29317823252,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19317823221,B19317823221,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99317823283,B99317823283,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317823143,B19317823143,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347423533,B39347423533,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347832738,B39347832738,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29347832703,B29347832703,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29347832629,B29347832629,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347424207,B49347424207,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347424277,B79347424277,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49347424124,B49347424124,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39347424012,B39347424012,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B79497787567,B79497787567,B,8/27/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89347832878,B89347832878,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347424743,B49347424743,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99347831128,B99347831128,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317823042,B99317823042,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89317823167,B89317823167,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79317822439,B79317822439,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39317823027,B39317823027,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347831141,B49347831141,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B19347831268,B19347831268,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B89317888547,B89317888547,B,8/27/1965,1965,CA,52.5,-103.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347832892,B39347832892,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317888508,B19317888508,B,8/27/1965,1965,CA,52.5,-103.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317888578,B39317888578,B,8/27/1965,1965,CA,52.5,-103.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79317823237,B79317823237,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347832909,B49347832909,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99347832962,B99347832962,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347832822,B49347832822,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39317823983,B39317823983,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347812274,B79347812274,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347812134,B19347812134,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347831233,B79347831233,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99347831443,B99347831443,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347831413,B39347831413,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89347831483,B89347831483,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19347831343,B19347831343,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347831303,B49347831303,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347831373,B39347831373,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39347831299,B39347831299,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347812172,B39347812172,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29347424934,B29347424934,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347424907,B49347424907,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347424977,B39347424977,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347424837,B79347424837,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347424894,B39347424894,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347424754,B79347424754,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19347831509,B19347831509,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347832668,B49347832668,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79317856039,B79317856039,B,8/27/1965,1965,CA,53.5,-106.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B59317856051,B59317856051,B,8/27/1965,1965,CA,53.5,-106.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39317856015,B39317856015,B,8/27/1965,1965,CA,53.5,-106.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347812662,B49347812662,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89347812609,B89347812609,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99347812648,B99347812648,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347812651,B39347812651,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347812791,B79347812791,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347812732,B39347812732,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29347812861,B29347812861,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99347812802,B99347812802,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317888589,B19317888589,B,8/27/1965,1965,CA,52.5,-103.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89317888523,B89317888523,B,8/27/1965,1965,CA,52.5,-103.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99347812088,B99347812088,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347812021,B49347812021,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29317822451,B29317822451,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B39347813103,B39347813103,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29317822467,B29317822467,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317823182,B39317823182,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347423724,B49347423724,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347423647,B49347423647,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347423634,B79347423634,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B59347422552,B59347422552,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79347422597,B79347422597,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29347422457,B29347422457,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B19347831023,B19347831023,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89347423833,B89347423833,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89347831001,B89347831001,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347831104,B19347831104,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89317823641,B89317823641,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317822583,B19317822583,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29317822229,B29317822229,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89317822047,B89317822047,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49347423864,B49347423864,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99347423997,B99347423997,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B39317823742,B39317823742,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29317822941,B29317822941,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317822509,B19317822509,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317822562,B99317822562,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19317822422,B19317822422,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347423214,B39347423214,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347423133,B39347423133,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317822093,B39317822093,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79347423312,B79347423312,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347423934,B39347423934,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39347423374,B39347423374,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99347813281,B99347813281,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347813138,B39347813138,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19347813197,B19347813197,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29347423172,B29347423172,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29347423017,B29347423017,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49317822478,B49317822478,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29317822212,B29317822212,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19317822187,B19317822187,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79497787474,B79497787474,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347422527,B49347422527,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79497788049,B79497788049,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39317822412,B39317822412,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317822342,B19317822342,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317822311,B39317822311,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39317822257,B39317822257,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39347813351,B39347813351,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99347813449,B99347813449,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317823602,B99317823602,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29317822537,B29317822537,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79317822591,B79317822591,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317822408,B99317822408,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79317822352,B79317822352,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29317822373,B29317822373,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99347423763,B99347423763,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39347423829,B39347423829,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B99497787927,B99497787927,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89497787098,B89497787098,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79497787264,B79497787264,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79497787157,B79497787157,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29347423973,B29347423973,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B39347423059,B39347423059,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347423794,B79347423794,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347423269,B39347423269,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49347423323,B49347423323,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99317822002,B99317822002,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89497787334,B89497787334,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347423903,B39347423903,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99347423043,B99347423043,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B19347813114,B19347813114,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347813421,B39347813421,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29317822548,B29317822548,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B69317823672,B69317823672,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317822327,B99317822327,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19347831198,B19347831198,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347813464,B49347813464,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347813573,B19347813573,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347813418,B19347813418,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347813394,B79347813394,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347813254,B19347813254,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347813223,B49347813223,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347831187,B19347831187,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39317500579,B39317500579,B,8/28/1965,1965,CA,52.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347831058,B39347831058,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B09347831034,B09347831034,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89347831089,B89347831089,B,8/28/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79497787489,B79497787489,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79497787349,B79497787349,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79497787317,B79497787317,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79317823878,B79317823878,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79497787168,B79497787168,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317823613,B39317823613,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29317823738,B29317823738,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89317822369,B89317822369,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29317822299,B29317822299,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29317822142,B29317822142,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79317822198,B79317822198,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99317822163,B99317822163,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317822089,B99317822089,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39317823668,B39317823668,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317822019,B39317822019,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317822492,B39317822492,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29317822303,B29317822303,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29317822132,B29317822132,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19347813337,B19347813337,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347813057,B39347813057,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79497787238,B79497787238,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99497787387,B99497787387,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89497787259,B89497787259,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49497787217,B49497787217,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19497787194,B19497787194,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99347813363,B99347813363,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347813239,B79347813239,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79497787399,B79497787399,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49497787378,B49497787378,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99497787209,B99497787209,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99497787147,B99497787147,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89317822282,B89317822282,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29497787279,B29497787279,B,8/28/1965,1965,CA,53.5,-108.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B89317822128,B89317822128,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79317822117,B79317822117,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29317822058,B29317822058,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19317823703,B19317823703,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99317823769,B99317823769,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29317823657,B29317823657,B,8/28/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347813383,B49347813383,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347813313,B79347813313,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347813491,B19347813491,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89317888449,B89317888449,B,8/28/1965,1965,CA,51.5,-104.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347813184,B39347813184,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347813141,B49347813141,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347813153,B79347813153,B,8/28/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49497787139,B49497787139,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347423102,B39347423102,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347423144,B49347423144,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29347423273,B29347423273,B,8/28/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99497788029,B99497788029,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317888418,B39317888418,B,8/28/1965,1965,CA,51.5,-104.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99497787069,B99497787069,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89497787017,B89497787017,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49497787054,B49497787054,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79497787107,B79497787107,B,8/28/1965,1965,CA,52.5,-108.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89317823003,B89317823003,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347424043,B49347424043,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B79347832994,B79347832994,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347831548,B49347831548,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347831133,B39347831133,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B69347832633,B69347832633,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347423409,B49347423409,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49347423483,B49347423483,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347423463,B49347423463,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B39347423343,B39347423343,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B59347831594,B59347831594,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347813503,B39347813503,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89347831561,B89347831561,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89347832843,B89347832843,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99347832808,B99347832808,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347832752,B79347832752,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347832714,B79347832714,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347832773,B39347832773,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347831159,B79347831159,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347423452,B39347423452,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19347831583,B19347831583,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347812091,B39347812091,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29347812707,B29347812707,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89347812764,B89347812764,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347812679,B79347812679,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89347812123,B89347812123,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347812189,B49347812189,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89347812049,B89347812049,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29347424852,B29347424852,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79347424194,B79347424194,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347424712,B79347424712,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49347424767,B49347424767,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B29347424697,B29347424697,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347423507,B39347423507,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19347424152,B19347424152,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79347424113,B79347424113,B,8/27/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39347831454,B39347831454,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347831421,B19347831421,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89347831408,B89347831408,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39317823213,B39317823213,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317823991,B99317823991,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89317823963,B89317823963,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89317823839,B89317823839,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B29317823893,B29317823893,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29317823097,B29317823097,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317823069,B19317823069,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317823193,B19317823193,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347831478,B79347831478,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29317823011,B29317823011,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29317823178,B29317823178,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317823053,B39317823053,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B09317823038,B09317823038,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49347831439,B49347831439,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347832673,B79347832673,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39317823909,B39317823909,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317823913,B99317823913,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99317823921,B99317823921,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39317823937,B39317823937,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19317823948,B19317823948,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99317823123,B99317823123,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39317823263,B39317823263,B,8/27/1965,1965,CA,51.5,-105.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99317856008,B99317856008,B,8/27/1965,1965,CA,53.5,-106.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B89317856043,B89317856043,B,8/27/1965,1965,CA,53.5,-106.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79317888593,B79317888593,B,8/27/1965,1965,CA,52.5,-103.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B89317888531,B89317888531,B,8/27/1965,1965,CA,52.5,-103.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99347831203,B99347831203,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347831257,B39347831257,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B79347831397,B79347831397,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347831314,B79347831314,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347831338,B39347831338,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347831467,B49347831467,B,8/27/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347812749,B49347812749,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99347812889,B99347812889,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347812823,B49347812823,B,8/27/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B29347812382,B29347812382,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B19347814051,B19347814051,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99347814009,B99347814009,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99347812567,B99347812567,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347812427,B49347812427,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49347812473,B49347812473,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B39347812333,B39347812333,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99347812242,B99347812242,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B49347424362,B49347424362,B,8/26/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B19347812298,B19347812298,B,8/26/1965,1965,CA,52.5,-105.5,60,18,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B39347833893,B39347833893,B,8/26/1965,1965,CA,51.5,-103.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B79347424432,B79347424432,B,8/26/1965,1965,CA,53.5,-108.5,60,18,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B99477915841,B99477915841,B,7/11/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B49477915454,B49477915454,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59477915505,B59477915505,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39477915351,B39477915351,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477915099,B19477915099,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477915085,B99477915085,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477915979,B19477915979,B,7/11/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B49477945454,B49477945454,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945577,B49477945577,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89477915839,B89477915839,B,7/11/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B99477915967,B99477915967,B,7/11/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B49477945437,B49477945437,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945535,B49477945535,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477915855,B49477915855,B,7/11/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B59477945507,B59477945507,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477915001,B99477915001,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59477945594,B59477945594,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59477945589,B59477945589,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477915419,B19477915419,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477918028,B79477918028,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477915169,B99477915169,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945297,B49477945297,B,7/13/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99477945605,B99477945605,B,7/15/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945659,B49477945659,B,7/15/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477945787,B79477945787,B,7/15/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477944544,B49477944544,B,7/15/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477919649,B99477919649,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B69477945675,B69477945675,B,7/15/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945174,B49477945174,B,7/15/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59477524527,B59477524527,B,7/14/1960,1960,CA,51.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477915785,B79477915785,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B79477915155,B79477915155,B,7/9/1960,1960,CA,52.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477915715,B79477915715,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B59477915747,B59477915747,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B79477915869,B79477915869,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B99477945449,B99477945449,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477918417,B49477918417,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477918588,B79477918588,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477919691,B49477919691,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477919989,B99477919989,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59477945519,B59477945519,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477915734,B19477915734,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B99477945524,B99477945524,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477915729,B99477915729,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B49477918477,B49477918477,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477915645,B99477915645,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B79477915799,B79477915799,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B49477919059,B49477919059,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B09477917031,B09477917031,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99477917204,B99477917204,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477917484,B99477917484,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59477917591,B59477917591,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477918779,B19477918779,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477915887,B99477915887,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B79477945309,B79477945309,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477945325,B99477945325,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B59477945344,B59477945344,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477945367,B99477945367,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945379,B49477945379,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945497,B49477945497,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39477945357,B39477945357,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945255,B49477945255,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477915897,B19477915897,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B59477945427,B59477945427,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477915874,B79477915874,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B99477945567,B99477945567,B,7/11/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945414,B49477945414,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477915771,B49477915771,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B79477915631,B79477915631,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B99477945409,B99477945409,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477945465,B79477945465,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477945339,B49477945339,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477945314,B79477945314,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477945384,B79477945384,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477945244,B99477945244,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477945484,B99477945484,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477915659,B19477915659,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B79477945479,B79477945479,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477915629,B79477915629,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B99477915769,B99477915769,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B79477915701,B79477915701,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B79477915757,B79477915757,B,7/12/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B79477945395,B79477945395,B,7/12/1960,1960,CA,53.5,-110.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477917521,B99477917521,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477919149,B79477919149,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477917451,B49477917451,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477919199,B19477919199,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477919187,B99477919187,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79407092439,B79407092439,B,8/9/1960,1960,CA,50.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B09407092420,B09407092420,B,8/10/1960,1960,CA,50.5,-112.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49407092417,B49407092417,B,8/10/1960,1960,CA,50.5,-112.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99407092400,B99407092400,B,8/10/1960,1960,CA,50.5,-112.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B49407092490,B49407092490,B,8/10/1960,1960,CA,50.5,-112.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B99477949847,B99477949847,B,8/12/1960,1960,CA,54.5,-110.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B99477949824,B99477949824,B,8/12/1960,1960,CA,54.5,-110.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B49477949977,B49477949977,B,8/12/1960,1960,CA,54.5,-110.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B99477949964,B99477949964,B,8/12/1960,1960,CA,54.5,-110.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B89477949837,B89477949837,B,8/12/1960,1960,CA,54.5,-110.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B49477949859,B49477949859,B,8/12/1960,1960,CA,54.5,-110.5,60,11,1400,3.0,4,4.0,Blue-winged Teal,Spatula discors,Local,Male
+B99427993323,B99427993323,B,8/16/1960,1960,CA,50.5,-113.5,60,11,1400,3.0,4,5.0,Blue-winged Teal,Spatula discors,Local,Female
+B49407092470,B49407092470,B,8/16/1960,1960,CA,50.5,-112.5,60,11,1400,3.0,2,5.0,Blue-winged Teal,Spatula discors,Hatching Year,Female
+B99407092487,B99407092487,B,8/16/1960,1960,CA,50.5,-112.5,60,11,1400,3.0,2,4.0,Blue-winged Teal,Spatula discors,Hatching Year,Male
+B09477919037,B09477919037,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477918337,B49477918337,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477918487,B99477918487,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477918459,B19477918459,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477918518,B79477918518,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477919667,B99477919667,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477919639,B79477919639,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477944457,B49477944457,B,7/15/1960,1960,CA,53.5,-111.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477919709,B79477919709,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477919864,B79477919864,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89477919831,B89477919831,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477919129,B99477919129,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477919269,B99477919269,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477918977,B49477918977,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477918361,B99477918361,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477917467,B79477917467,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477917327,B99477917327,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477917241,B99477917241,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477917287,B99477917287,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477917147,B79477917147,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99477917047,B99477917047,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99477917087,B99477917087,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B79477918744,B79477918744,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477917829,B79477917829,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B79477917869,B79477917869,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B79477917799,B79477917799,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B19477917659,B19477917659,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49477918658,B49477918658,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89477918949,B89477918949,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89477918868,B89477918868,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39477918394,B39477918394,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477917939,B49477917939,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B99477919999,B99477919999,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477919947,B79477919947,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477919009,B99477919009,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B29477918238,B29477918238,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B19477918219,B19477918219,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477918277,B79477918277,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B89477918149,B89477918149,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B49477918179,B49477918179,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477918039,B79477918039,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477917064,B79477917064,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B79477917187,B79477917187,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B49477917134,B49477917134,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,5.0,Blue-winged Teal,Spatula discors,After Hatching Year,Female
+B79477918827,B79477918827,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B79477917309,B79477917309,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B39477917357,B39477917357,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male
+B99477917409,B99477917409,B,8/6/1960,1960,CA,53.5,-112.5,60,11,1400,3.0,1,4.0,Blue-winged Teal,Spatula discors,After Hatching Year,Male

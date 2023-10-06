@@ -1,0 +1,1001 @@
+BAND,ORIGINAL_BAND,EVENT_TYPE,EVENT_DATE,EVENT_YEAR,ISO_COUNTRY,LAT_DD,LON_DD,CP,BAND_TYPE,SPECIES_ID,BIRD_STATUS,AGE_CODE,SEX_CODE,SPECIES_NAME,SCIENTIFIC_NAME,AGE_DESCRIPTION,SEX_DESCRIPTION
+B42833274067,B42833274067,B,09/03/2020,2020,US,42.255,-84.53861,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B82833274098,B82833274098,B,09/02/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833489278,B22833489278,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B23833264044,B23833264044,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B32833273583,B32833273583,B,09/02/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B52833273592,B52833273592,B,09/02/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B63833264053,B63833264053,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32833489143,B32833489143,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833274004,B22833274004,B,09/02/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92833489262,B92833489262,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92833274953,B92833274953,B,09/03/2020,2020,US,42.255,-84.53861,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B02833274074,B02833274074,B,09/03/2020,2020,US,42.255,-84.53861,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B82833273452,B82833273452,B,09/03/2020,2020,US,42.255,-84.53861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264036,B33833264036,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22833273562,B22833273562,B,09/03/2020,2020,US,42.255,-84.53861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72833273577,B72833273577,B,09/03/2020,2020,US,42.255,-84.53861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22833274082,B22833274082,B,09/03/2020,2020,US,42.255,-84.53861,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B03833264073,B03833264073,B,09/03/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264083,B33833264083,B,09/03/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264092,B83833264092,B,09/03/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264003,B33833264003,B,09/03/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264013,B83833264013,B,09/03/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264022,B33833264022,B,09/03/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264913,B33833264913,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264908,B33833264908,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264176,B83833264176,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264162,B33833264162,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B63833264293,B63833264293,B,08/30/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B33833264278,B33833264278,B,08/31/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B82833273538,B82833273538,B,08/30/2020,2020,US,41.89389,-84.70917,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B32833273543,B32833273543,B,08/30/2020,2020,US,41.89389,-84.70917,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B22833489208,B22833489208,B,08/30/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833274043,B22833274043,B,08/30/2020,2020,US,41.89389,-84.70917,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72833274052,B72833274052,B,08/30/2020,2020,US,41.89389,-84.70917,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833274168,B22833274168,B,08/30/2020,2020,US,41.89389,-84.70917,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B82833489293,B82833489293,B,08/31/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833489283,B22833489283,B,08/31/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32833274033,B32833274033,B,08/31/2020,2020,US,42.36611,-84.15556,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B13833264153,B13833264153,B,08/31/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264263,B33833264263,B,08/31/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B23833264283,B23833264283,B,08/31/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32833489153,B32833489153,B,09/02/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32833273507,B32833273507,B,09/01/2020,2020,US,42.47111,-83.79,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B43833264143,B43833264143,B,09/01/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B52833273513,B52833273513,B,09/01/2020,2020,US,42.47111,-83.79,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B32833274028,B32833274028,B,09/01/2020,2020,US,42.47111,-83.79,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B82833274012,B82833274012,B,09/01/2020,2020,US,42.47111,-83.79,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B63833264138,B63833264138,B,09/01/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264193,B33833264193,B,09/01/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264106,B33833264106,B,09/01/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264114,B33833264114,B,09/01/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B23833264123,B23833264123,B,09/01/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264184,B33833264184,B,09/01/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264993,B33833264993,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B43833264068,B43833264068,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B93833264954,B93833264954,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264652,B83833264652,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264736,B83833264736,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B33833264722,B33833264722,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B63833264773,B63833264773,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B43833264703,B43833264703,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B82833489178,B82833489178,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B42833489164,B42833489164,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B82833489052,B82833489052,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B73833264792,B73833264792,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B43833264783,B43833264783,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B73833264713,B73833264713,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B23833264768,B23833264768,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264643,B33833264643,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264963,B33833264963,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B63833264633,B63833264633,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B43833264628,B43833264628,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B63833264613,B63833264613,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B23833264604,B23833264604,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B63833264698,B63833264698,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833263553,B33833263553,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B23833264683,B23833264683,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264674,B33833264674,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264666,B33833264666,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B22833489049,B22833489049,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B02833489038,B02833489038,B,09/07/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B33833264744,B33833264744,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264753,B33833264753,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B92833489189,B92833489189,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B12833489192,B12833489192,B,09/06/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B63833264932,B63833264932,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B43833264946,B43833264946,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B82833489138,B82833489138,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B33833264983,B33833264983,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264978,B83833264978,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B23833264923,B23833264923,B,09/04/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92833489108,B92833489108,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833489122,B22833489122,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B12833489119,B12833489119,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B43833264862,B43833264862,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833273443,B22833273443,B,09/05/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B42833273437,B42833273437,B,09/05/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B42833274943,B42833274943,B,09/05/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72833274938,B72833274938,B,09/05/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B63833264853,B63833264853,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B23833264843,B23833264843,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264838,B33833264838,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264893,B83833264893,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264823,B33833264823,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264814,B83833264814,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B33833264806,B33833264806,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264884,B33833264884,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B83833264876,B83833264876,B,09/05/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B52833275662,B52833275662,B,08/30/2020,2020,US,41.89389,-84.70917,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B23833264208,B23833264208,B,08/30/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B82833275832,B82833275832,B,08/14/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B32833274262,B32833274262,B,08/22/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B42833489433,B42833489433,B,08/21/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833274284,B22833274284,B,08/21/2020,2020,US,42.54722,-83.66056,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72833274292,B72833274292,B,08/21/2020,2020,US,42.54667,-83.65722,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22833274207,B22833274207,B,08/21/2020,2020,US,42.54667,-83.65722,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B42833274222,B42833274222,B,08/21/2020,2020,US,42.54667,-83.65722,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72833274214,B72833274214,B,08/21/2020,2020,US,42.54667,-83.65722,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22833489444,B22833489444,B,08/21/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B33833264563,B33833264563,B,08/21/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32833275708,B32833275708,B,08/22/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32833275783,B32833275783,B,08/22/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B12833274152,B12833274152,B,08/22/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32833274277,B32833274277,B,08/22/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B42833489402,B42833489402,B,08/21/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32833275713,B32833275713,B,08/22/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B32833275793,B32833275793,B,08/22/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B33833264433,B33833264433,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B23833264442,B23833264442,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92833489348,B92833489348,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32833489353,B32833489353,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B63833264456,B63833264456,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B82833489493,B82833489493,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B42833489488,B42833489488,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32833489472,B32833489472,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32833489469,B32833489469,B,08/25/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92833489423,B92833489423,B,08/21/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B82833489418,B82833489418,B,08/21/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B63833264213,B63833264213,B,08/30/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B52833489598,B52833489598,B,08/16/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22833275802,B22833275802,B,08/14/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B42833274308,B42833274308,B,08/14/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32833274313,B32833274313,B,08/14/2020,2020,US,42.57917,-82.8025,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22833275887,B22833275887,B,08/15/2020,2020,US,41.91417,-84.08139,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72833275895,B72833275895,B,08/15/2020,2020,US,41.91417,-84.08139,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32833274393,B32833274393,B,08/15/2020,2020,US,41.91417,-84.08139,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92833489503,B92833489503,B,08/16/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B42833489563,B42833489563,B,08/16/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B82833489458,B82833489458,B,08/16/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B82833489573,B82833489573,B,08/16/2020,2020,US,42.16972,-85.51806,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833096473,B44833096473,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096350,B34833096350,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097147,B34833097147,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833097120,B44833097120,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833097103,B74833097103,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833097183,B74833097183,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097168,B04833097168,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096314,B34833096314,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833096333,B84833096333,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833097028,B74833097028,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833096376,B94833096376,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833096490,B84833096490,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833096413,B84833096413,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096439,B34833096439,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833096454,B94833096454,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B54833096553,B54833096553,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833097673,B64833097673,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833097699,B84833097699,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833097610,B84833097610,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096398,B34833096398,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833096299,B94833096299,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833097007,B04833097007,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097243,B04833097243,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097084,B04833097084,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097069,B34833097069,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833097588,B74833097588,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833097400,B04833097400,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097567,B04833097567,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833097448,B44833097448,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833097260,B74833097260,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833097287,B44833097287,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833097209,B44833097209,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097224,B34833097224,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833097364,B44833097364,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833096258,B84833096258,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833098694,B94833098694,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833098618,B94833098618,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833098638,B64833098638,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833098778,B94833098778,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833098793,B74833098793,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833098713,B74833098713,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833096210,B94833096210,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B24833096236,B24833096236,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833097427,B74833097427,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833097043,B44833097043,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833098653,B84833098653,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833186536,B84833186536,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833097658,B94833097658,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188014,B84833188014,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188393,B34833188393,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188313,B34833188313,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188331,B84833188331,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833188471,B44833188471,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833188078,B04833188078,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833188084,B44833188084,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188098,B84833188098,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833188008,B44833188008,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833058953,B94833058953,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833097489,B04833097489,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833058075,B04833058075,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833058094,B84833058094,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833058018,B84833058018,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833058038,B34833058038,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B54833058053,B54833058053,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833058830,B34833058830,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B54833058858,B54833058858,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833058970,B84833058970,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188378,B84833188378,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188253,B84833188253,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B24833188238,B24833188238,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188218,B84833188218,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833188924,B14833188924,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833188803,B44833188803,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833188821,B34833188821,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833188838,B34833188838,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188854,B84833188854,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188028,B34833188028,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188033,B34833188033,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833188043,B14833188043,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188051,B84833188051,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833188168,B44833188168,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188183,B34833188183,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833188103,B34833188103,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833188121,B14833188121,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188138,B84833188138,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188278,B34833188278,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188294,B84833188294,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833188154,B14833188154,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833058998,B34833058998,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188498,B84833188498,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B54833058934,B54833058934,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188148,B84833188148,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833188288,B14833188288,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833188208,B14833188208,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188224,B84833188224,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833188243,B44833188243,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833188364,B14833188364,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188383,B84833188383,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188308,B84833188308,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833188323,B44833188323,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188463,B84833188463,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833188488,B44833188488,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833188401,B44833188401,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833188348,B34833188348,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833188434,B34833188434,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188453,B84833188453,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188574,B84833188574,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833097349,B74833097349,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097463,B34833097463,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188261,B34833188261,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833058164,B44833058164,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833058845,B04833058845,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833058005,B44833058005,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833058963,B44833058963,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833058985,B34833058985,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833058900,B34833058900,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833188191,B34833188191,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188113,B34833188113,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188813,B84833188813,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833188848,B14833188848,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833188961,B44833188961,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188068,B84833188068,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188173,B84833188173,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833058024,B34833058024,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833058043,B04833058043,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833058178,B84833058178,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833058928,B04833058928,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833058948,B84833058948,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833058060,B84833058060,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833058088,B44833058088,B,06/16/2014,2014,US,39.375,-89.025,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097637,B34833097637,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097383,B34833097383,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833097777,B84833097777,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833097917,B94833097917,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833097820,B74833097820,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833097847,B44833097847,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833097854,B84833097854,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097960,B04833097960,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833097979,B94833097979,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833097987,B74833097987,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833097994,B94833097994,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833097909,B74833097909,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833097924,B44833097924,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097798,B34833097798,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833097938,B84833097938,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097953,B34833097953,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097077,B34833097077,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833097173,B94833097173,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833097190,B14833097190,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833097113,B14833097113,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833097139,B84833097139,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097154,B34833097154,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833097803,B04833097803,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833097728,B04833097728,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097784,B34833097784,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833097769,B44833097769,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B54833097593,B54833097593,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833097504,B74833097504,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B54833097518,B54833097518,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833097523,B44833097523,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833097533,B84833097533,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097540,B34833097540,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097559,B34833097559,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833098660,B34833098660,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833098679,B34833098679,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833098688,B04833098688,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833096980,B34833096980,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096903,B34833096903,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833097663,B74833097663,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833097680,B44833097680,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833097603,B44833097603,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097629,B34833097629,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097644,B04833097644,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B24833097279,B24833097279,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833097294,B84833097294,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833097217,B84833097217,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833189484,B14833189484,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833189428,B94833189428,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833189433,B44833189433,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833189409,B14833189409,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833189443,B44833189443,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833189451,B84833189451,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833189568,B14833189568,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833189573,B84833189573,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833189583,B94833189583,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833189503,B94833189503,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833189218,B84833189218,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833189233,B34833189233,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833189258,B84833189258,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833189373,B84833189373,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833189398,B34833189398,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833189311,B34833189311,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833189339,B84833189339,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833189358,B34833189358,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833189414,B84833189414,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833189171,B84833189171,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097238,B34833097238,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833189163,B14833189163,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833097253,B94833097253,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097393,B34833097393,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097313,B34833097313,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833097330,B94833097330,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833097378,B84833097378,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833180071,B04833180071,B,06/13/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833180090,B84833180090,B,06/13/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833180018,B84833180018,B,06/13/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833189661,B94833189661,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833189678,B64833189678,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188541,B84833188541,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833189941,B34833189941,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833189064,B34833189064,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833189083,B14833189083,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833189008,B14833189008,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833189023,B94833189023,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833189048,B44833189048,B,06/13/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833097574,B94833097574,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833097453,B84833097453,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833097434,B44833097434,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833096273,B34833096273,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097308,B34833097308,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097323,B04833097323,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833096280,B04833096280,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833096203,B04833096203,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833096229,B64833096229,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833096244,B44833096244,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833096369,B04833096369,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833096384,B64833096384,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833096306,B64833096306,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833096328,B44833096328,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833096343,B34833096343,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B64833096468,B64833096468,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833096483,B44833096483,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833096403,B44833096403,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096420,B34833096420,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833096446,B04833096446,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833096560,B44833096560,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188943,B84833188943,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833096159,B14833096159,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833096586,B34833096586,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833096133,B94833096133,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097714,B34833097714,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833097733,B94833097733,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833097750,B74833097750,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097873,B34833097873,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833097890,B94833097890,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833097813,B94833097813,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833097839,B84833097839,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097943,B34833097943,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096999,B34833096999,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833096070,B04833096070,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833096096,B84833096096,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833096019,B84833096019,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096034,B34833096034,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833096053,B94833096053,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833096174,B84833096174,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096193,B34833096193,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833096118,B34833096118,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833096579,B84833096579,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096594,B34833096594,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833097050,B84833097050,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096263,B34833096263,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097868,B34833097868,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097707,B34833097707,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097883,B04833097883,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833098609,B04833098609,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833098624,B84833098624,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833098643,B44833098643,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833098764,B04833098764,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833098783,B84833098783,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833098708,B84833098708,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833098723,B44833098723,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833097357,B34833097357,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833097470,B34833097470,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833097497,B94833097497,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833097419,B94833097419,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833097098,B94833097098,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833097014,B94833097014,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B04833097033,B04833097033,B,06/14/2014,2014,US,39.24167,-90.09167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833097743,B74833097743,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833096140,B64833096140,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096509,B34833096509,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833096123,B04833096123,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833096524,B04833096524,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833096538,B94833096538,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833096543,B64833096543,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096516,B34833096516,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833096910,B34833096910,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833096929,B04833096929,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B94833096936,B94833096936,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B64833096944,B64833096944,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833096958,B94833096958,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B64833096063,B64833096063,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833096000,B44833096000,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096026,B34833096026,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B04833096048,B04833096048,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833096089,B44833096089,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833096166,B44833096166,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833096188,B34833096188,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833096104,B34833096104,B,06/14/2014,2014,US,39.05833,-89.49167,1.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B94833188953,B94833188953,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833187281,B44833187281,B,06/17/2014,2014,US,37.64722,-89.16361,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833188938,B84833188938,B,06/16/2014,2014,US,37.68222,-89.33889,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833155781,B34833155781,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833155641,B14833155641,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833155623,B34833155623,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833155604,B44833155604,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833155688,B44833155688,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B54833155665,B54833155665,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833154358,B34833154358,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833154334,B84833154334,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833154311,B34833154311,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833154395,B34833154395,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B54833154373,B54833154373,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833155478,B34833155478,B,06/20/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833155385,B34833155385,B,06/20/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833155353,B34833155353,B,06/20/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833155324,B14833155324,B,06/20/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833155305,B34833155305,B,06/20/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833155763,B44833155763,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833155703,B34833155703,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833155245,B14833155245,B,06/20/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833154568,B44833154568,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833187543,B34833187543,B,06/17/2014,2014,US,37.555,-89.32444,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833188663,B34833188663,B,06/17/2014,2014,US,37.555,-89.32444,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833188681,B14833188681,B,06/17/2014,2014,US,37.555,-89.32444,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833188611,B84833188611,B,06/17/2014,2014,US,37.555,-89.32444,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B74833188714,B74833188714,B,06/17/2014,2014,US,37.555,-89.32444,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833188751,B34833188751,B,06/17/2014,2014,US,37.555,-89.32444,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833186418,B84833186418,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833186474,B44833186474,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833186353,B34833186353,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833186334,B84833186334,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833186318,B34833186318,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833154498,B84833154498,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833154474,B44833154474,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833154503,B34833154503,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833154583,B34833154583,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833155361,B44833155361,B,06/20/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833155221,B34833155221,B,06/20/2014,2014,US,37.30306,-88.78611,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B74833187587,B74833187587,B,06/17/2014,2014,US,37.555,-89.32444,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B14833155725,B14833155725,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B34833155875,B34833155875,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B34833186396,B34833186396,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B14833154521,B14833154521,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833154414,B84833154414,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B44833154544,B44833154544,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B84833154255,B84833154255,B,06/20/2014,2014,US,37.80889,-89.51861,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833186371,B84833186371,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B84833186256,B84833186256,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B44833186248,B44833186248,B,06/19/2014,2014,US,37.35083,-89.33528,0.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B82933758872,B82933758872,B,05/07/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933758749,B32933758749,B,05/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933758728,B22933758728,B,05/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933758889,B22933758889,B,05/07/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933758823,B32933758823,B,05/06/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933758847,B72933758847,B,05/06/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933758753,B32933758753,B,05/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933758819,B92933758819,B,05/06/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933758995,B32933758995,B,05/04/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933758802,B22933758802,B,05/06/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933758893,B92933758893,B,05/06/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933758833,B32933758833,B,05/06/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933758855,B52933758855,B,05/04/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933758732,B92933758732,B,05/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933758973,B92933758973,B,05/04/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933758987,B32933758987,B,05/04/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933758963,B22933758963,B,05/04/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933758903,B32933758903,B,05/02/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933758917,B32933758917,B,05/01/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B82933798873,B82933798873,B,05/15/1965,1965,US,35.91667,-87.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933783263,B32933783263,B,08/09/1965,1965,US,35.75,-85.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B82933758868,B82933758868,B,05/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B62933758637,B62933758637,B,05/12/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933758763,B72933758763,B,05/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933904003,B22933904003,B,05/12/1965,1965,US,39.91667,-80.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933788317,B32933788317,B,05/16/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933788338,B92933788338,B,05/16/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933788342,B32933788342,B,05/15/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B42933788478,B42933788478,B,05/15/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933758613,B52933758613,B,05/12/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933788359,B32933788359,B,05/15/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B82933788468,B82933788468,B,05/15/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B82933788303,B82933788303,B,05/18/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933788499,B92933788499,B,05/14/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933788408,B22933788408,B,05/14/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B52933758693,B52933758693,B,05/13/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933758662,B32933758662,B,05/13/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933758683,B72933758683,B,05/13/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933758679,B32933758679,B,05/13/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933788328,B22933788328,B,05/16/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933788398,B32933788398,B,05/18/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B82933758785,B82933758785,B,05/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B82933758707,B82933758707,B,05/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B82933758623,B82933758623,B,05/12/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B52933758777,B52933758777,B,05/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933758715,B72933758715,B,05/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933758798,B72933758798,B,05/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933758658,B92933758658,B,05/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933758645,B22933758645,B,05/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933758609,B72933758609,B,05/12/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B82933788387,B82933788387,B,05/19/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933757559,B32933757559,B,05/22/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933788247,B22933788247,B,05/21/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933788258,B92933788258,B,05/21/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933904099,B92933904099,B,05/20/1965,1965,US,39.91667,-80.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933788363,B72933788363,B,05/20/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B82933788373,B82933788373,B,05/19/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933788482,B22933788482,B,05/15/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933757573,B52933757573,B,06/03/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933757537,B92933757537,B,05/22/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757542,B32933757542,B,05/22/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B12933757117,B12933757117,B,08/20/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933757122,B22933757122,B,08/20/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933757139,B92933757139,B,08/19/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757143,B32933757143,B,08/18/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933707397,B32933707397,B,08/17/1965,1965,US,39.75,-79.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933707369,B22933707369,B,08/17/1965,1965,US,39.75,-79.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933752415,B92933752415,B,09/02/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933752422,B32933752422,B,09/01/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B32933752432,B32933752432,B,08/26/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933752449,B72933752449,B,08/22/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B52933752453,B52933752453,B,08/21/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933752589,B32933752589,B,08/20/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933752572,B92933752572,B,08/20/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22933752562,B22933752562,B,08/20/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933752502,B32933752502,B,08/19/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933752593,B32933752593,B,08/19/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B52933752533,B52933752533,B,08/14/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933752519,B32933752519,B,08/14/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933752523,B72933752523,B,08/14/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22933752547,B22933752547,B,08/13/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B52933752555,B52933752555,B,08/09/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933753667,B32933753667,B,08/08/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B62933753675,B62933753675,B,08/08/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22933753683,B22933753683,B,08/08/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933753605,B22933753605,B,08/07/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757167,B72933757167,B,08/21/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B12933757192,B12933757192,B,08/21/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757187,B72933757187,B,08/21/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B92933757937,B92933757937,B,08/25/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757805,B72933757805,B,08/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933757822,B72933757822,B,08/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B92933757853,B92933757853,B,08/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B72933757962,B72933757962,B,08/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933757817,B52933757817,B,08/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B82933757839,B82933757839,B,08/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B52933757979,B52933757979,B,08/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933757993,B92933757993,B,08/26/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933757909,B72933757909,B,08/26/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757983,B72933757983,B,08/26/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B32933757073,B32933757073,B,08/25/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933757957,B32933757957,B,08/25/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B52933757175,B52933757175,B,08/21/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B92933757913,B92933757913,B,08/25/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757083,B72933757083,B,08/25/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933757945,B32933757945,B,08/25/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757069,B32933757069,B,08/25/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933757013,B52933757013,B,08/24/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933757097,B52933757097,B,08/24/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757003,B72933757003,B,08/24/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757027,B72933757027,B,08/24/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B02933757035,B02933757035,B,08/24/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B22933757047,B22933757047,B,08/22/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B72933757105,B72933757105,B,08/21/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B92933753692,B92933753692,B,08/07/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933753613,B92933753613,B,08/01/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933753622,B32933753622,B,07/31/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B52933757419,B52933757419,B,06/18/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757327,B72933757327,B,07/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757315,B32933757315,B,07/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B52933757332,B52933757332,B,07/04/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757349,B72933757349,B,07/02/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757353,B32933757353,B,06/27/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933757467,B32933757467,B,06/24/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757472,B32933757472,B,06/24/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757489,B72933757489,B,06/22/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933707327,B72933707327,B,06/20/1965,1965,US,39.75,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B52933757493,B52933757493,B,06/19/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B02933707330,B02933707330,B,06/18/1965,1965,US,39.75,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757402,B72933757402,B,06/18/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933757385,B32933757385,B,07/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757423,B72933757423,B,06/16/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933757447,B22933757447,B,06/16/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B42933757433,B42933757433,B,06/16/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933757455,B92933757455,B,06/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757563,B72933757563,B,06/05/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933784842,B72933784842,B,08/13/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B72933757587,B72933757587,B,05/30/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933757595,B52933757595,B,05/29/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757503,B72933757503,B,05/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933757517,B52933757517,B,05/25/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933757525,B22933757525,B,05/23/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933757307,B32933757307,B,07/08/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757397,B32933757397,B,07/09/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933753639,B32933753639,B,07/31/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933757262,B72933757262,B,08/15/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B52933753653,B52933753653,B,07/29/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22933753762,B22933753762,B,07/29/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933753643,B72933753643,B,07/29/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933753793,B32933753793,B,07/28/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933753783,B32933753783,B,07/28/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933753709,B32933753709,B,07/26/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933753713,B32933753713,B,07/26/1965,1965,US,35.58333,-97.58333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933707373,B92933707373,B,08/17/1965,1965,US,39.75,-79.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933707383,B32933707383,B,08/17/1965,1965,US,39.75,-79.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933757153,B32933757153,B,08/17/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933757279,B22933757279,B,08/15/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933757283,B22933757283,B,08/12/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933757377,B92933757377,B,07/27/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933757293,B92933757293,B,08/10/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22933757209,B22933757209,B,08/07/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92933757213,B92933757213,B,08/07/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757223,B32933757223,B,08/05/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933757245,B72933757245,B,08/04/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757237,B32933757237,B,08/04/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933707313,B32933707313,B,08/02/1965,1965,US,39.75,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933707303,B32933707303,B,08/02/1965,1965,US,39.75,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933757257,B52933757257,B,07/31/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92933757052,B92933757052,B,07/29/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933757363,B22933757363,B,07/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933783153,B32933783153,B,08/11/1965,1965,US,35.75,-85.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B82933798702,B82933798702,B,08/30/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B82933784859,B82933784859,B,08/13/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B12933731981,B12933731981,B,08/11/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933731063,B32933731063,B,07/19/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B32933731953,B32933731953,B,07/19/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731943,B32933731943,B,07/28/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B92933731939,B92933731939,B,07/29/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933731911,B92933731911,B,07/30/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B12933731903,B12933731903,B,07/30/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933731922,B22933731922,B,07/30/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B92933731992,B92933731992,B,07/31/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731973,B32933731973,B,08/18/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731897,B32933731897,B,08/29/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B72933731967,B72933731967,B,08/18/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92933731852,B92933731852,B,08/18/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933731841,B22933731841,B,08/20/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B12933731827,B12933731827,B,08/21/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B82933731833,B82933731833,B,08/21/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731813,B32933731813,B,08/22/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933731873,B32933731873,B,08/29/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933731883,B72933731883,B,08/29/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731099,B32933731099,B,07/16/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933731001,B72933731001,B,07/16/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933731012,B32933731012,B,07/13/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B12933731029,B12933731029,B,07/10/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B22933731203,B22933731203,B,04/27/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933731211,B92933731211,B,04/27/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933731281,B22933731281,B,04/27/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933731273,B22933731273,B,04/28/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B12933731267,B12933731267,B,04/28/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731152,B32933731152,B,04/30/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933731141,B32933731141,B,04/30/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933731127,B22933731127,B,05/02/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933731133,B92933731133,B,05/02/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B12933731113,B12933731113,B,05/04/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B12933731103,B12933731103,B,05/06/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B12933731197,B12933731197,B,06/03/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731173,B32933731173,B,06/05/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933731169,B72933731169,B,06/07/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933731057,B92933731057,B,06/10/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933731043,B22933731043,B,07/02/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B02933731033,B02933731033,B,07/07/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933731803,B72933731803,B,08/29/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933731757,B72933731757,B,08/30/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731239,B32933731239,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933723023,B32933723023,B,07/03/1965,1965,US,41.75,-74.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933780589,B32933780589,B,05/31/1965,1965,US,42.75,-88.91667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B82933780453,B82933780453,B,06/10/1965,1965,US,42.75,-88.91667,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933798047,B72933798047,B,08/21/1965,1965,US,43.41667,-89.91667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933798033,B32933798033,B,08/21/1965,1965,US,43.41667,-89.91667,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B72933780449,B72933780449,B,09/01/1965,1965,US,42.75,-88.91667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933780432,B32933780432,B,09/09/1965,1965,US,42.75,-88.91667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933798023,B32933798023,B,09/24/1965,1965,US,43.08333,-88.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22933723012,B22933723012,B,07/31/1965,1965,US,41.75,-74.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B02933723032,B02933723032,B,06/26/1965,1965,US,41.75,-74.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933731869,B32933731869,B,08/30/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22933723049,B22933723049,B,06/26/1965,1965,US,41.75,-74.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B02933707257,B02933707257,B,09/18/1965,1965,US,38.91667,-76.91667,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933707347,B72933707347,B,05/11/1965,1965,US,38.91667,-76.91667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933745064,B32933745064,B,08/19/1965,1965,US,48.58333,-100.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933745953,B32933745953,B,08/27/1965,1965,US,48.58333,-100.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933745943,B32933745943,B,08/28/1965,1965,US,48.58333,-100.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933738939,B32933738939,B,09/21/1965,1965,US,40.41667,-74.25,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B22933722783,B22933722783,B,10/04/1965,1965,US,39.91667,-74.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933780560,B22933780560,B,05/13/1965,1965,US,42.75,-88.91667,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933780593,B32933780593,B,05/10/1965,1965,US,42.75,-88.91667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933796392,B32933796392,B,05/27/1965,1965,US,44.41667,-68.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B62933796386,B62933796386,B,06/04/1965,1965,US,44.41667,-68.41667,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B12933731743,B12933731743,B,08/30/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731733,B32933731733,B,09/02/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933731729,B72933731729,B,09/02/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731712,B32933731712,B,09/03/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731799,B32933731799,B,09/04/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731701,B32933731701,B,09/04/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933731782,B32933731782,B,09/05/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92933731771,B92933731771,B,09/06/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B22933731763,B22933731763,B,09/10/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731659,B32933731659,B,09/10/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933731642,B72933731642,B,09/11/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933731631,B32933731631,B,09/13/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933731623,B32933731623,B,09/16/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92933731617,B92933731617,B,09/21/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B92933796379,B92933796379,B,07/13/1965,1965,US,44.41667,-68.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933796367,B72933796367,B,07/13/1965,1965,US,44.41667,-68.41667,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B92933796252,B92933796252,B,07/13/1965,1965,US,44.41667,-68.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933731292,B92933731292,B,04/27/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933731383,B32933731383,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B42933784863,B42933784863,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933798723,B22933798723,B,08/30/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B62933784632,B62933784632,B,08/20/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B72933784764,B72933784764,B,08/20/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B72933784607,B72933784607,B,08/21/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B82933784618,B82933784618,B,08/21/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B82933798863,B82933798863,B,08/27/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933798759,B32933798759,B,08/28/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933798747,B32933798747,B,08/28/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B92933798733,B92933798733,B,08/29/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B72933798719,B72933798719,B,08/30/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933720319,B32933720319,B,10/03/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933798793,B72933798793,B,09/03/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B82933798789,B82933798789,B,09/04/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933798768,B72933798768,B,09/05/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B92933798772,B92933798772,B,09/05/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92933798653,B92933798653,B,09/05/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B22933798649,B22933798649,B,09/06/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B62933798632,B62933798632,B,09/06/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B22933720323,B22933720323,B,10/02/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B42933784624,B42933784624,B,08/20/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B92933784653,B92933784653,B,08/20/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933784649,B22933784649,B,08/20/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B42933784789,B42933784789,B,08/18/1965,1965,US,35.08333,-87.91667,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933784803,B22933784803,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B92933784898,B92933784898,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933784758,B32933784758,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B32933784828,B32933784828,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B32933784834,B32933784834,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B82933784873,B82933784873,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B32933784747,B32933784747,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933784887,B22933784887,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B92933784817,B92933784817,B,08/14/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B92933784733,B92933784733,B,08/15/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B42933784702,B42933784702,B,08/15/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B72933784793,B72933784793,B,08/15/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B72933784719,B72933784719,B,08/15/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933784723,B22933784723,B,08/15/1965,1965,US,35.75,-83.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B32933783148,B32933783148,B,08/17/1965,1965,US,35.75,-85.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933783137,B92933783137,B,08/17/1965,1965,US,35.75,-85.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B82933784772,B82933784772,B,08/18/1965,1965,US,35.08333,-87.91667,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B92933720333,B92933720333,B,10/02/1965,1965,US,36.08333,-87.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B62933769652,B62933769652,B,05/06/1965,1965,US,44.08333,-92.41667,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933731323,B72933731323,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731337,B32933731337,B,04/22/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933731449,B22933731449,B,04/16/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B42933731432,B42933731432,B,04/17/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B12933731421,B12933731421,B,04/17/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731413,B32933731413,B,04/18/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731491,B32933731491,B,04/19/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933731407,B72933731407,B,04/19/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933731483,B72933731483,B,04/20/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731477,B32933731477,B,04/21/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731463,B32933731463,B,04/22/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933769649,B72933769649,B,05/11/1965,1965,US,44.08333,-92.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933731351,B32933731351,B,04/22/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B12933731343,B12933731343,B,04/22/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933731253,B32933731253,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933731362,B22933731362,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933731243,B72933731243,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933731393,B32933731393,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933731222,B32933731222,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933731379,B92933731379,B,04/26/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933731572,B32933731572,B,04/14/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933731453,B92933731453,B,04/14/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933731561,B72933731561,B,04/14/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933757867,B32933757867,B,08/29/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933769683,B22933769683,B,05/24/1965,1965,US,44.08333,-92.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933769862,B32933769862,B,06/21/1965,1965,US,46.75,-94.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933723903,B32933723903,B,06/21/1965,1965,US,46.75,-94.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933723987,B32933723987,B,06/22/1965,1965,US,46.75,-94.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B62933769673,B62933769673,B,09/12/1965,1965,US,44.08333,-92.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933790417,B92933790417,B,08/15/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B72933790442,B72933790442,B,08/28/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933790430,B32933790430,B,09/01/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933790429,B32933790429,B,09/04/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933790403,B22933790403,B,09/05/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933790487,B22933790487,B,09/10/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B92933790499,B92933790499,B,09/10/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B42933790473,B42933790473,B,09/12/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B02933790463,B02933790463,B,09/16/1965,1965,US,41.58333,-90.58333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B12933731502,B12933731502,B,04/10/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B52933731593,B52933731593,B,04/11/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B12933731589,B12933731589,B,04/13/1965,1965,US,36.08333,-79.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933757843,B22933757843,B,08/28/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933757612,B92933757612,B,09/02/1965,1965,US,40.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933723543,B32933723543,B,07/29/1965,1965,US,39.58333,-76.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B02933792073,B02933792073,B,04/22/1965,1965,US,38.91667,-75.75,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933723592,B52933723592,B,08/21/1965,1965,US,39.58333,-76.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933723502,B32933723502,B,08/21/1965,1965,US,39.58333,-76.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B72933707400,B72933707400,B,09/03/1965,1965,US,38.91667,-76.41667,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933723522,B22933723522,B,07/29/1965,1965,US,39.58333,-76.08333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B12933729192,B12933729192,B,08/21/1960,1960,US,42.41667,-85.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933775647,B72933775647,B,09/01/1960,1960,CA,44.58333,-66.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700970,B92933700970,B,08/15/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700999,B32933700999,B,08/15/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Male
+B92933700957,B92933700957,B,08/14/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933700929,B72933700929,B,08/14/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700943,B02933700943,B,08/14/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933204932,B02933204932,B,05/19/1960,1960,CA,41.91667,-82.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933775633,B32933775633,B,09/01/1960,1960,CA,44.58333,-66.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933775532,B92933775532,B,07/29/1960,1960,CA,44.58333,-66.75,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933775997,B92933775997,B,08/28/1960,1960,CA,44.58333,-66.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933775087,B72933775087,B,08/27/1960,1960,CA,44.58333,-66.75,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933775315,B32933775315,B,08/25/1960,1960,CA,44.58333,-66.75,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933700960,B22933700960,B,08/15/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700912,B32933700912,B,08/14/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700933,B02933700933,B,08/14/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933700089,B22933700089,B,08/13/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700072,B02933700072,B,08/13/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700900,B32933700900,B,08/15/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700817,B92933700817,B,08/19/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933700842,B72933700842,B,08/18/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700859,B02933700859,B,08/18/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933700719,B72933700719,B,08/21/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700723,B22933700723,B,08/21/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Male
+B02933700702,B02933700702,B,08/21/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B72933700793,B72933700793,B,08/21/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700890,B92933700890,B,08/20/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700747,B32933700747,B,08/20/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700733,B92933700733,B,08/20/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Male
+B32933700750,B32933700750,B,08/20/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B02933700863,B02933700863,B,08/20/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B82933700873,B82933700873,B,08/20/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700887,B22933700887,B,08/20/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700803,B22933700803,B,08/20/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700820,B32933700820,B,08/19/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700830,B32933700830,B,08/19/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700023,B32933700023,B,08/12/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B02933700060,B02933700060,B,08/13/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933705532,B92933705532,B,09/11/1960,1960,US,33.58333,-86.75,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B32933700033,B32933700033,B,08/12/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700229,B02933700229,B,08/05/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Male
+B32933700270,B32933700270,B,08/07/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B12933700159,B12933700159,B,08/07/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933700282,B72933700282,B,08/06/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933700200,B72933700200,B,08/06/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700299,B02933700299,B,08/06/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700212,B02933700212,B,08/06/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Male
+B22933700243,B22933700243,B,08/05/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700233,B22933700233,B,08/05/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700019,B92933700019,B,08/12/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700373,B02933700373,B,08/03/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700257,B92933700257,B,08/03/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700383,B02933700383,B,08/03/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700352,B32933700352,B,07/30/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700327,B22933700327,B,07/30/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B02933700303,B02933700303,B,07/30/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933010239,B22933010239,B,06/11/1960,1960,US,39.75,-85.08333,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B02933700130,B02933700130,B,08/07/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933700120,B72933700120,B,08/07/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700142,B02933700142,B,08/07/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700260,B32933700260,B,08/07/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700002,B22933700002,B,08/12/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933700760,B72933700760,B,08/26/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700093,B92933700093,B,08/12/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700050,B02933700050,B,08/11/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933709053,B92933709053,B,08/11/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933700047,B72933700047,B,08/11/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700187,B32933700187,B,08/10/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700163,B22933700163,B,08/10/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933771083,B72933771083,B,09/03/1960,1960,US,39.08333,-79.25,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933775353,B32933775353,B,09/03/1960,1960,US,39.08333,-79.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933773983,B32933773983,B,09/04/1960,1960,US,39.08333,-79.25,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700173,B92933700173,B,08/10/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700103,B32933700103,B,08/08/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700190,B32933700190,B,08/08/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933700117,B32933700117,B,08/08/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700772,B02933700772,B,08/26/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B22933771769,B22933771769,B,08/27/1960,1960,US,39.91667,-80.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B02933700789,B02933700789,B,08/26/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700400,B22933700400,B,07/26/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933099559,B32933099559,B,05/21/1960,1960,US,40.91667,-82.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933099459,B92933099459,B,05/21/1960,1960,US,40.91667,-82.25,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933700397,B32933700397,B,07/30/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B02933700467,B02933700467,B,07/29/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700492,B92933700492,B,07/29/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B42933700470,B42933700470,B,07/29/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700480,B22933700480,B,07/29/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933700422,B32933700422,B,07/26/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700653,B92933700653,B,08/28/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700410,B92933700410,B,07/26/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933700439,B32933700439,B,07/25/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B32933700593,B32933700593,B,07/23/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B32933700340,B32933700340,B,07/30/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933700583,B32933700583,B,07/23/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933700443,B72933700443,B,07/23/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B02933700453,B02933700453,B,07/23/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B22933765273,B22933765273,B,06/05/1960,1960,US,39.25,-84.41667,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B92933765935,B92933765935,B,09/06/1960,1960,US,39.25,-84.41667,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B92933324413,B92933324413,B,08/14/1960,1960,US,36.41667,-82.25,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933324403,B22933324403,B,08/14/1960,1960,US,36.41667,-82.25,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B69753006863,B69753006863,B,08/11/1960,1960,US,42.58333,-83.25,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B52933775742,B52933775742,B,09/18/1960,1960,US,35.91667,-87.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B39643472519,B39643472519,B,06/24/1960,1960,US,44.08333,-92.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933778843,B72933778843,B,06/27/1960,1960,US,47.25,-95.25,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933778853,B72933778853,B,06/27/1960,1960,US,47.25,-95.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933778839,B32933778839,B,07/14/1960,1960,US,47.25,-95.25,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933775423,B52933775423,B,08/28/1960,1960,US,43.58333,-92.58333,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933769953,B32933769953,B,09/05/1960,1960,US,44.08333,-93.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B52933768553,B52933768553,B,09/07/1960,1960,US,44.91667,-93.08333,10.0,11,4280,3.0,1.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Unknown
+B32933324399,B32933324399,B,09/03/1960,1960,US,36.41667,-82.25,10.0,11,4280,3.0,2.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Female
+B32933324343,B32933324343,B,09/03/1960,1960,US,36.41667,-82.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933324312,B32933324312,B,09/03/1960,1960,US,36.41667,-82.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B42933324473,B42933324473,B,09/03/1960,1960,US,36.41667,-82.25,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B42933324469,B42933324469,B,09/03/1960,1960,US,36.41667,-82.25,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933324353,B32933324353,B,09/03/1960,1960,US,36.41667,-82.25,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933700513,B32933700513,B,07/23/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933700509,B32933700509,B,07/23/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B32933700313,B32933700313,B,07/30/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933295809,B22933295809,B,09/24/1960,1960,US,42.58333,-92.41667,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933767153,B32933767153,B,06/19/1960,1960,US,40.91667,-91.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933295249,B22933295249,B,05/20/1960,1960,US,42.58333,-92.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933295255,B92933295255,B,05/19/1960,1960,US,42.58333,-92.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B92933779749,B92933779749,B,05/30/1960,1960,US,40.75,-74.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933773337,B72933773337,B,09/08/1960,1960,US,39.91667,-74.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933775882,B72933775882,B,09/14/1960,1960,US,40.91667,-74.58333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933878408,B22933878408,B,09/03/1960,1960,US,39.58333,-75.91667,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female
+B02933801012,B02933801012,B,09/03/1960,1960,US,39.58333,-78.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B42933449433,B42933449433,B,07/18/1960,1960,US,39.08333,-77.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B02933700620,B02933700620,B,09/04/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B62933700632,B62933700632,B,09/04/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933700649,B22933700649,B,08/30/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933723763,B22933723763,B,08/11/1960,1960,US,40.91667,-75.08333,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933772382,B22933772382,B,08/25/1960,1960,US,39.91667,-80.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B69753006629,B69753006629,B,08/18/1960,1960,US,42.58333,-83.25,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B22933099843,B22933099843,B,09/16/1960,1960,US,42.75,-93.91667,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B72933779753,B72933779753,B,05/20/1960,1960,US,40.75,-74.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933700562,B22933700562,B,07/23/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B22933760723,B22933760723,B,09/03/1960,1960,US,48.75,-102.08333,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B92933700579,B92933700579,B,07/23/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B02933700540,B02933700540,B,07/22/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B42933449563,B42933449563,B,06/26/1960,1960,US,39.08333,-77.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B72933700523,B72933700523,B,07/22/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,1.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Male
+B02933700537,B02933700537,B,07/22/1960,1960,US,46.08333,-68.75,10.0,11,4280,3.0,0.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Unknown
+B72933775245,B72933775245,B,05/23/1960,1960,US,44.91667,-91.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933294042,B22933294042,B,08/15/1960,1960,US,45.75,-91.75,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B22933105765,B22933105765,B,08/11/1960,1960,US,41.58333,-73.25,10.0,11,4280,3.0,2.0,0.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Unknown
+B72933713403,B72933713403,B,09/15/1960,1960,US,41.91667,-88.08333,10.0,11,4280,3.0,2.0,4.0,Ruby-throated Hummingbird,Archilochus colubris,Hatching Year,Male
+B32933884024,B32933884024,B,05/20/1960,1960,US,41.91667,-89.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933884032,B32933884032,B,05/20/1960,1960,US,41.91667,-89.41667,10.0,11,4280,3.0,1.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,After Hatching Year,Female
+B32933771703,B32933771703,B,07/26/1960,1960,US,41.08333,-73.25,10.0,11,4280,3.0,0.0,5.0,Ruby-throated Hummingbird,Archilochus colubris,Unknown,Female

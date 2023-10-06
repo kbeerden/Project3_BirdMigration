@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bird Migration Tracking Visualization</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive visualization of bird migration patterns.">
+    <title> USGS Bird Banding Analysis Visualization</title>
     <link rel="stylesheet" href="../static/css/style.css">
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
@@ -9,35 +12,68 @@
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
+    <!-- Chart.js Library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Leaflet Heatmap Plugin -->
+    <script src="https://cdn.jsdelivr.net/gh/Leaflet/Leaflet.heat@master/dist/leaflet-heat.js"></script>
+    <style>
+        .visualization {
+            width: 20%;
+            height: 400px;
+            overflow: auto;
+        }
+
+        .description {
+            width: 100%;
+            height: 400px;
+            overflow: auto;
+            margin-left: 1%;  /* Adjust this value to move the text closer or farther from the graph */
+        }
+    </style>
 </head>
 <body>
 
 <!-- Page 0 -->
 <div id="welcomePage" class="page">
     <header class="site-header">
-        <h1>Bird Migration Tracking Visualization</h1>
+        <h1>USGS Bird Banding Analysis Visualization</h1>
     </header>
     <h1>Explanation of Project</h1>
-    <p>The Bird Migration Tracking Visualization project is designed to shed light on the fascinating journey of various bird species as they migrate across regions.
-         Leveraging comprehensive data from the Science Base repository, our platform aims to provide bird enthusiasts, researchers, and the general public with an interactive and informative experience.
-         Through detailed visualizations, users can explore patterns related to the age, location, and seasonal movements of selected bird species. By offering insights into these natural phenomena, we hope to foster a deeper appreciation for avian migration and contribute to ongoing ornithological studies.</p>
+    <p>Welcome to our Analysis of The USGS Bird Banding project, where we embarked on an journey to analyze this extensive and ecologically important data gathering project. Our analysis utilizes the vast amounts of program information from the USGS Bird Banding Program. We have created visualizations for four unique species of birds (The American Flamingo, the Ruby-Throated Hummingbird, the Northern Saw-Whet Owl, and the Blue Winged Teal) including a banding location map, a month vs. location heatmap, and a chart to show locational data. These visualizations offer dynamic perspectives on bird movement, illuminating the nuances of their behavior and adaptation. Additionally, the user-driven interaction features of our visualizations page empower enthusiasts and researchers alike to customize their exploration, enabling them to select specific bird species for detailed analysis. </p>
     <h1>Interactive Bird Migration Map</h1>
     
-    <!-- Dropdown for species selection and button to trigger display of markers -->
-    <select id="birdSpecies">
-        <option value="flamingos">Flamingos</option>
-        <option value="hummingbirds">Hummingbirds</option>
-        <option value="owls">Owls</option>
-        <option value="teals">Teals</option>
-    </select>
-    <button onclick="showMarkers()">Show Markers</button>    
-
-    <!-- Placeholder for the map -->
-    <div id="flamingosMap" style="width: 100%; height: 400px;"></div>
+    <div class="container">
+        <!-- Left side controls -->
+        <div class="controls">
+            <select id="birdSpecies">
+                <option value="flamingos">Flamingos</option>
+                <option value="hummingbirds">Hummingbirds</option>
+                <option value="owls">Owls</option>
+                <option value="teals">Teals</option>
+            </select>
+        </select>
+        <button onclick="showMarkers()">Show Markers</button>
+        <button onclick="showLocationDistributionChart()">Show Graph</button>
+        <button onclick="showHeatMap()">Show Heatmap</button>
+    </div>
+     <!-- Visualization (Map/Graph) -->
+     <div class="visualization">
+        <div id="flamingosMap" style="width: 100%; height: 400px;"></div>
+        <canvas id="locationDistributionChart"style="width: 100%; height: 400px;"></canvas>
+        <div id="heatmap" style="width: 100%; height: 400px;"></div>
+    </div>
     
-    <h1>Citations</h1>
+    <!-- Paragraph -->
+    <div class="description">
+        <p id="visualizationDescription">
+            <!-- Your paragraph content here -->
+        </p>
+    </div>
+    <!-- Empty space-->
+    <div class="emptySpace"></div>
 </div>
 
-<script src="../static/js/logic.js"></script>
+<script src="../static/js/script.js"></script>
 </body>
 </html>
